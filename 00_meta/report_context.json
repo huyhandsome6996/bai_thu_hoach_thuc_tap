@@ -1,0 +1,31 @@
+{
+  "report_type": "Bài tìm hiểu thực tế giáo dục TTSP1 sau tuần đầu",
+  "placement_start": "2026-10-26",
+  "placement_end": "2026-11-21",
+  "observation_window_start": "2026-10-26",
+  "observation_cutoff": "2026-11-01",
+  "submission_deadline": "2026-11-02",
+  "actual_signing_date": null,
+  "timezone": "Asia/Saigon",
+  "date_policy": "Giữ mốc quan sát tuần 1 dù agent chạy vào ngày khác; chỉ đổi phạm vi theo cập nhật trực tiếp của người dùng. Không tự ký lùi ngày.",
+  "future_activities_policy": "Việc sau 01/11/2026 chỉ trình bày là kế hoạch hoặc dự kiến trong bài này.",
+  "required_observations_entire_placement": {
+    "subject_lessons": 7,
+    "homeroom_or_experiential_lessons": 3,
+    "completed_counts": {
+      "subject_lessons": 0,
+      "homeroom_or_experiential_lessons": 0
+    },
+    "completed_counts_as_of": "2026-11-01"
+  },
+  "later_deadlines": {
+    "teaching_and_homeroom_dossier": "2026-11-17",
+    "mentor_evaluation": "2026-11-18",
+    "closing_meeting_local": "2026-11-21T14:00:00+07:00"
+  },
+  "requested_output": "docx",
+  "page_count_min": 30,
+  "page_count_max": 35,
+  "page_count_target": 35,
+  "form_policy": "Bám thứ tự FORM gốc A, B.I, B.II.1–6, B.III, tổng kết và nhận xét BGH; không dùng C/D/E/F làm phần chính."
+}

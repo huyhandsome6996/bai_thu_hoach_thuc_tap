@@ -1,0 +1,287 @@
+[
+  {
+    "id": "P0001",
+    "text": "FORM BÀI THU HOẠCH TÌM HIỂU THỰC TẾ GIÁO DỤC TTSP1"
+  },
+  {
+    "id": "P0002",
+    "text": "Trang bìa"
+  },
+  {
+    "id": "P0003",
+    "text": "Lời cảm ơn"
+  },
+  {
+    "id": "P0004",
+    "text": "A. TÓM LƯỢC VỀ BẢN THÂN"
+  },
+  {
+    "id": "P0005",
+    "text": "- Họ và tên sinh viên:"
+  },
+  {
+    "id": "P0006",
+    "text": "- Ngày sinh:"
+  },
+  {
+    "id": "P0007",
+    "text": "- Quê quán:"
+  },
+  {
+    "id": "P0008",
+    "text": "- Học tại trường: Đại học Sư Phạm, Đại học Huế"
+  },
+  {
+    "id": "P0009",
+    "text": "- Ngành học:"
+  },
+  {
+    "id": "P0010",
+    "text": "- Lớp:"
+  },
+  {
+    "id": "P0011",
+    "text": "- Thực tập tại trường: THPT Thuận Hóa"
+  },
+  {
+    "id": "P0012",
+    "text": "- Giáo viên hướng dẫn chuyên môn:"
+  },
+  {
+    "id": "P0013",
+    "text": "- Giáo viên hướng dẫn chủ nhiệm:"
+  },
+  {
+    "id": "P0014",
+    "text": "B. HOẠT ĐỘNG ĐÃ THỰC HIỆN VÀ KẾT QUẢ ĐẠT ĐƯỢC"
+  },
+  {
+    "id": "P0015",
+    "text": "I. Hoạt động đã thực hiện"
+  },
+  {
+    "id": "P0016",
+    "text": "- Nghe báo cáo"
+  },
+  {
+    "id": "P0017",
+    "text": "- Nghiên cứu hồ sơ, tài liệu"
+  },
+  {
+    "id": "P0018",
+    "text": "- Điều tra thực tế"
+  },
+  {
+    "id": "P0019",
+    "text": "II. Kết quả tìm hiểu"
+  },
+  {
+    "id": "P0020",
+    "text": "1. Tình hình giáo dục ở địa phương"
+  },
+  {
+    "id": "P0021",
+    "text": "2. Đặc điểm tình hình nhà trường"
+  },
+  {
+    "id": "P0022",
+    "text": "2.1. Vị trí"
+  },
+  {
+    "id": "P0023",
+    "text": "2.2. Tổng quan về trường"
+  },
+  {
+    "id": "P0024",
+    "text": "2.3. Đội ngũ giáo viên"
+  },
+  {
+    "id": "P0025",
+    "text": "2.4. Tổ, nhóm chuyên môn"
+  },
+  {
+    "id": "P0026",
+    "text": "2.5. Cơ sở vật chất"
+  },
+  {
+    "id": "P0027",
+    "text": "2.6. Thời gian ra vào lớp"
+  },
+  {
+    "id": "P0028",
+    "text": "2.7. Thành tích, kết quả học tập của học sinh"
+  },
+  {
+    "id": "P0029",
+    "text": "a. Thành tích tiêu biểu trong các cuộc thi các cấp năm học 2025–2026"
+  },
+  {
+    "id": "P0030",
+    "text": "b. Kết quả về học tập và rèn luyện năm học 2025–2026"
+  },
+  {
+    "id": "P0031",
+    "text": "2.8. Thuận lợi, khó khăn"
+  },
+  {
+    "id": "P0032",
+    "text": "a. Thuận lợi"
+  },
+  {
+    "id": "P0033",
+    "text": "b. Khó khăn"
+  },
+  {
+    "id": "P0034",
+    "text": "3. Cơ cấu tổ chức của nhà trường"
+  },
+  {
+    "id": "P0035",
+    "text": "3.1. Ban Giám hiệu"
+  },
+  {
+    "id": "P0036",
+    "text": "3.2. Ban chấp hành Đoàn"
+  },
+  {
+    "id": "P0037",
+    "text": "3.3. Tổ, nhóm chuyên môn"
+  },
+  {
+    "id": "P0038",
+    "text": "3.4. Giáo viên chủ nhiệm năm học 2026–2027"
+  },
+  {
+    "id": "P0039",
+    "text": "4. Hoạt động giáo dục"
+  },
+  {
+    "id": "P0040",
+    "text": "5. Hoạt động Đoàn và phong trào thanh niên đến năm học 2026–2027"
+  },
+  {
+    "id": "P0041",
+    "text": "5.1. Tình hình chung"
+  },
+  {
+    "id": "P0042",
+    "text": "5.2. Các mặt hoạt động"
+  },
+  {
+    "id": "P0043",
+    "text": "a. Công tác giáo dục tư tưởng đạo đức, tác phong đoàn viên"
+  },
+  {
+    "id": "P0044",
+    "text": "b. Công tác rèn luyện, học tập, giảng dạy"
+  },
+  {
+    "id": "P0045",
+    "text": "c. Phong trào văn hoá văn nghệ – thể dục thể thao"
+  },
+  {
+    "id": "P0046",
+    "text": "d. Công tác phát triển đoàn viên – đảng viên"
+  },
+  {
+    "id": "P0047",
+    "text": "6. Kế hoạch giáo dục nhà trường năm học 2026–2027"
+  },
+  {
+    "id": "P0048",
+    "text": "6.1. Mục tiêu"
+  },
+  {
+    "id": "P0049",
+    "text": "6.2. Kế hoạch dạy học"
+  },
+  {
+    "id": "P0050",
+    "text": "6.3. Kế hoạch tổ chức các hoạt động"
+  },
+  {
+    "id": "P0051",
+    "text": "6.4. Các chỉ tiêu"
+  },
+  {
+    "id": "P0052",
+    "text": "6.5. Biện pháp thực hiện"
+  },
+  {
+    "id": "P0053",
+    "text": "a. Thực hiện nề nếp dạy học"
+  },
+  {
+    "id": "P0054",
+    "text": "b. Chỉ đạo thực hiện chương trình"
+  },
+  {
+    "id": "P0055",
+    "text": "c. Đổi mới phương pháp dạy học"
+  },
+  {
+    "id": "P0056",
+    "text": "d. Bồi dưỡng học sinh giỏi, phụ đạo học sinh yếu kém, ôn tập thi tốt nghiệp, tăng cường ngoại khóa"
+  },
+  {
+    "id": "P0057",
+    "text": "e. Công tác kiểm tra đánh giá"
+  },
+  {
+    "id": "P0058",
+    "text": "g. Công tác bồi dưỡng, tự bồi dưỡng của đội ngũ"
+  },
+  {
+    "id": "P0059",
+    "text": "h. Đẩy mạnh ứng dụng CNTT trong quản lí chuyên môn, giảng dạy và học tập"
+  },
+  {
+    "id": "P0060",
+    "text": "i. Xây dựng trường học thân thiện, học sinh tích cực"
+  },
+  {
+    "id": "P0061",
+    "text": "(mục 6 xem trong file kế hoạch giáo dục nhà trường để điều chỉnh các mục nhỏ cho phù hợp mục 6, từng năm sẽ có thay đổi)"
+  },
+  {
+    "id": "P0062",
+    "text": "III. CÔNG TÁC TTSP 1 TẠI TRƯỜNG THPT THUẬN HOÁ"
+  },
+  {
+    "id": "P0063",
+    "text": "1. Vai trò của thực tập sư phạm"
+  },
+  {
+    "id": "P0064",
+    "text": "2. Công tác hướng dẫn TTSP 1 tại trường THPT Thuận Hoá"
+  },
+  {
+    "id": "P0065",
+    "text": "3. Một số yêu cầu đối với TTSP 1 tại trường THPT Thuận Hoá"
+  },
+  {
+    "id": "P0066",
+    "text": "IV. TỔNG KẾT"
+  },
+  {
+    "id": "P0067",
+    "text": "IV. NHẬN XÉT CỦA BGH NHÀ TRƯỜNG"
+  },
+  {
+    "id": "T0068",
+    "rows": [
+      [
+        "",
+        "Huế, ngày   tháng 11 năm 2026"
+      ],
+      [
+        "Ban Giám hiệu\n\t(Ký và ghi rõ họ tên)",
+        "Sinh viên thực tập \n\t(Ký và ghi rõ họ tên)\n\t\n\t\n\t\n\t(thống nhất ngày nộp để ghi vào"
+      ],
+      [
+        "",
+        ""
+      ]
+    ]
+  }
+]

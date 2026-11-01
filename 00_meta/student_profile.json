@@ -1,0 +1,87 @@
+{
+  "status": "core_profile_confirmed",
+  "as_of": "2026-11-01",
+  "stt_chuyen_mon": 10,
+  "stt_chu_nhiem": 30,
+  "ho_ten": "Hồ Quang Huy",
+  "ngay_sinh": "2006-02-25",
+  "que_quan": "Sa Pa, Lào Cai",
+  "mssv": "24S1020030",
+  "lop_sinh_vien": "Tin3A",
+  "khoa": null,
+  "nganh": "Sư phạm Tin học",
+  "gvhd_chuyen_mon": "Mai Xuân Văn",
+  "gvhd_chu_nhiem": "Nguyễn Thị Thu Phương",
+  "lop_thuc_tap_chu_nhiem": "12/2",
+  "bai_day_mau": null,
+  "khoi_lop_bai_day": null,
+  "bo_sach": null,
+  "dinh_dang_dau_ra": "docx",
+  "confirmed_week1_activities": [
+    {
+      "id": "W1-01",
+      "activity": "Hỗ trợ quản lý học sinh và ổn định nề nếp lớp 12/2 trong 15 phút đầu giờ.",
+      "date": null,
+      "source": "Người dùng xác nhận",
+      "note": "Chưa xác nhận ngày cụ thể hoặc số buổi; không tính là tiết dự giờ chủ nhiệm."
+    },
+    {
+      "id": "W1-02",
+      "activity": "Thực hiện 01 video phục vụ tiết mục biểu diễn văn nghệ của học sinh.",
+      "date": null,
+      "source": "Người dùng xác nhận",
+      "note": "Chưa có tên tiết mục, công cụ, tệp video hoặc đường dẫn minh chứng."
+    },
+    {
+      "id": "W1-03",
+      "activity": "Có mặt để cổ vũ, hỗ trợ học sinh trong quá trình tập luyện văn nghệ.",
+      "date": null,
+      "source": "Người dùng xác nhận",
+      "note": "Không suy thành phụ trách biên đạo hoặc tổ chức toàn bộ chương trình."
+    },
+    {
+      "id": "W1-04",
+      "activity": "Hỗ trợ đoàn sinh viên thực tập chuẩn bị và tổ chức 02 trò chơi cho học sinh trong thời gian chờ Ban Giám khảo chấm các tiết mục biểu diễn văn nghệ.",
+      "date": null,
+      "source": "Người dùng xác nhận",
+      "note": "Chưa có tên trò chơi, luật chơi, số người tham gia hoặc kết quả; không tự thêm."
+    },
+    {
+      "id": "W1-05",
+      "activity": "Dự lễ chào cờ trong buổi sáng đầu tiên đến trường thực tập.",
+      "date": "2026-10-26",
+      "time": null,
+      "source": "Người dùng xác nhận",
+      "note": "Thứ Hai; chưa xác nhận giờ thực tế bắt đầu chào cờ."
+    },
+    {
+      "id": "W1-06",
+      "activity": "Gặp thầy Mai Xuân Văn, giáo viên hướng dẫn chuyên môn.",
+      "date": "2026-10-26",
+      "time": "09:45",
+      "source": "Người dùng xác nhận",
+      "note": "Giờ gặp thực tế theo lời người dùng; không thay bằng mốc 9h00 trong kế hoạch chung."
+    },
+    {
+      "id": "W1-07",
+      "activity": "Gặp cô Nguyễn Thị Thu Phương, giáo viên hướng dẫn chủ nhiệm lớp 12/2.",
+      "date": "2026-10-26",
+      "time": "10:30",
+      "source": "Người dùng xác nhận",
+      "note": "Không tính cuộc gặp GVHD là tiết dự giờ chủ nhiệm."
+    }
+  ],
+  "observed_lessons": [],
+  "confirmation_note": "Đã xác nhận hồ sơ cốt lõi, lớp Tin3A, quê quán ghi Sa Pa, Lào Cai, hai GVHD và lớp thực tập 12/2. Ngày 26/10/2026 dự chào cờ buổi đầu, gặp thầy Mai Xuân Văn lúc 09:45 và cô Nguyễn Thị Thu Phương lúc 10:30. Vẫn chưa dự giờ chuyên môn/chủ nhiệm. Chưa xác nhận tham gia báo cáo BGH/Đoàn trường hoặc ngày cụ thể của các hoạt động văn nghệ/trò chơi.",
+  "truong_dao_tao": "Trường Đại học Sư phạm, Đại học Huế",
+  "noi_thuong_tru": "Sa Pa, Lào Cai",
+  "dia_danh_nguoi_dung_cung_cap": "Quê ở Lào Cai (SaPa) (Thường trú)",
+  "mentor_source": "TT T0056 (CM10), T0063 (CN30); chủ nhiệm khớp Excel E42, E122. Người dùng đã xác nhận đúng hai GVHD hiện tại.",
+  "observed_lesson_counts": {
+    "chuyen_mon": 0,
+    "chu_nhiem": 0,
+    "as_of": "2026-11-01",
+    "source": "Người dùng xác nhận chưa được dự giờ chuyên môn hoặc chủ nhiệm."
+  },
+  "mentors_confirmed_by_user": true
+}

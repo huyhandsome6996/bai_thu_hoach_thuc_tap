@@ -1,0 +1,1255 @@
+[
+  {
+    "id": "T0001",
+    "rows": [
+      [
+        "TRƯỜNG ĐẠI HỌC SƯ PHẠM, ĐH HUẾ\nTRƯỜNG THPT THUẬN HÓA",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc"
+      ],
+      [
+        "Số:      /KH-THPT",
+        "Huế, ngày 21 tháng 10 năm 2026"
+      ]
+    ]
+  },
+  {
+    "id": "P0002",
+    "text": "KẾ HOẠCH HƯỚNG DẪN THỰC TẬP SƯ PHẠM I"
+  },
+  {
+    "id": "P0003",
+    "text": "Năm học 2026 – 2027"
+  },
+  {
+    "id": "P0004",
+    "text": "Căn cứ công văn số 2576/ĐHSP-ĐTĐH&CTSV ngày 01 tháng 10 năm 2026 của Trường Đại học Sư phạm, Đại học Huế về kế hoạch triển khai thực tập 1 năm học 2026 – 2027;"
+  },
+  {
+    "id": "P0005",
+    "text": "Căn cứ công văn số…../QĐ-ĐHSP ngày…..tháng 10 năm 2026 của Trường Đại học Sư phạm, Đại học Huế về việc thành lập các đoàn sinh viên thực hiện các học phần Thực tập sư phạm I năm học 2026 – 2027;"
+  },
+  {
+    "id": "P0006",
+    "text": "Căn cứ văn bản hướng dẫn về quy trình triển khai thực tập sư phạm I của Trường Đại học Sư phạm, Đại học Huế;"
+  },
+  {
+    "id": "P0007",
+    "text": "Căn cứ vào Quyết định số…../QĐ-THPT ngày….tháng 10 năm 2026 của Hiệu trưởng Trường THPT Thuận Hóa về việc thành lập Ban chỉ đạo thực tập sư phạm I năm học 2026 – 2027, Ban chỉ đạo xây dựng kế hoạch triển khai thực tập sư phạm I năm học 2026 – 2027, cụ thể như sau:"
+  },
+  {
+    "id": "P0008",
+    "text": "I. MỘT SỐ QUI ĐỊNH CHUNG"
+  },
+  {
+    "id": "P0009",
+    "text": "1. Đối với sinh viên thực tập sư phạm I (SV THỰC TẬP SƯ PHẠM I):"
+  },
+  {
+    "id": "P0010",
+    "text": "Ngoài nội quy, quy định về thực tập sư phạm I của Trường ĐHSP, ĐH Huế, sinh viên cần lưu ý một số vấn đề sau:"
+  },
+  {
+    "id": "P0011",
+    "text": "- Trang phục:"
+  },
+  {
+    "id": "P0012",
+    "text": "+ Sinh viên nam: trang phục công sở – cà vạt."
+  },
+  {
+    "id": "P0013",
+    "text": "+ Sinh viên nữ: áo dài truyền thống các ngày thứ Hai. Các ngày khác trong tuần trang phục, tác phong mẫu mực, mô phạm."
+  },
+  {
+    "id": "P0014",
+    "text": "- Thực hiện đúng nội quy nhà trường đối với giáo viên; không tổ chức hoặc tham gia với học sinh các hoạt động ăn uống, sử dụng rượu bia và các chất kích thích trong cũng như ngoài nhà trường."
+  },
+  {
+    "id": "P0015",
+    "text": "- Trước khi dự giờ chuyên môn và chủ nhiệm: Nhóm trưởng tập hợp đề cương dự giờ nộp cho giáo viên hướng dẫn (GVHD), GVHD nhận xét, đánh giá và ký xác nhận rồi trả lại cho sinh viên để lưu vào hồ sơ thực tập sư phạm I."
+  },
+  {
+    "id": "P0016",
+    "text": "- Sinh viên dự giờ đúng thời gian quy định, không đến trễ (khi thầy cô giáo và học sinh đã ổn định, SV không được vào lớp dự)."
+  },
+  {
+    "id": "P0017",
+    "text": "- Tham gia đầy đủ các buổi họp do tổ trưởng, nhóm trưởng chuyên môn, GVHD, nhóm trưởng SV triệu tập."
+  },
+  {
+    "id": "P0018",
+    "text": "- Thông tin về học sinh và thời khóa biểu liên hệ bộ phận giáo vụ trường."
+  },
+  {
+    "id": "P0019",
+    "text": "2. Thời gian ra vào lớp"
+  },
+  {
+    "id": "P0020",
+    "text": "Buổi sáng:"
+  },
+  {
+    "id": "T0021",
+    "rows": [
+      [
+        "Thời gian",
+        "7h-7h10",
+        "7h10-7h55",
+        "8h-8h45",
+        "9h-9h45",
+        "9h50-10h35",
+        "10h40-11h25"
+      ],
+      [
+        "Nội dung",
+        "Ổn định",
+        "Tiết 1",
+        "Tiết 2",
+        "Tiết 3",
+        "Tiết 4",
+        "Tiết 5"
+      ]
+    ]
+  },
+  {
+    "id": "P0022",
+    "text": "Buổi chiều:"
+  },
+  {
+    "id": "T0023",
+    "rows": [
+      [
+        "Thời gian",
+        "13h10-13h55",
+        "14h-14h45",
+        "14h50-15h35",
+        "15h40-16h25",
+        "16h30-17h15"
+      ],
+      [
+        "Nội dung",
+        "Tiết 6",
+        "Tiết 7",
+        "Tiết 8",
+        "Tiết 9",
+        "Tiết 10"
+      ]
+    ]
+  },
+  {
+    "id": "P0024",
+    "text": "Mỗi tiết học có thời gian 45 phút."
+  },
+  {
+    "id": "P0025",
+    "text": "3. Đối với Ban chỉ đạo, GV hướng dẫn"
+  },
+  {
+    "id": "P0026",
+    "text": "* Tổ trưởng, nhóm trưởng chuyên môn"
+  },
+  {
+    "id": "P0027",
+    "text": "- Tổ chức lên lịch và họp chuyên môn trong tuần 1 có thực tập sư phạm I sư phạm; báo cáo tình hình của tổ chuyên môn (cơ cấu tổ chức, phân công nhiệm vụ, kế hoạch dạy học của tổ, chương trình nội dung dạy học đang triển khai tại Trường, vấn đề đổi mới theo định hướng phát triển năng lực người học, hướng dẫn học sinh tự học…)."
+  },
+  {
+    "id": "P0028",
+    "text": "- Tham gia nhận xét, đánh giá bài thu hoạch tìm hiểu về công tác giảng dạy (tìm hiểu nội dung chương trình và sách giáo khoa, các loại hồ sơ, sổ sách lớp học; cách đánh giá, cho điểm và các tài liệu hướng dẫn chuyên môn của các cấp quản lý giáo dục theo từng cấp học, bậc học, ngành học…); tổng hợp kết quả dự giờ của SV từ GVHD chuyên môn."
+  },
+  {
+    "id": "P0029",
+    "text": "* Thầy cô chủ nhiệm"
+  },
+  {
+    "id": "P0030",
+    "text": "- Tổ chức sinh hoạt lớp chủ nhiệm để SV dự giờ theo sự phân công của Ban chỉ đạo (mỗi SV dự đủ 03 tiết), nhận xét đánh giá tiết dự của sinh viên theo quy định."
+  },
+  {
+    "id": "P0031",
+    "text": "- Cùng với Ban chỉ đạo đánh giá bài thu hoạch về công tác chủ nhiệm (SV tìm hiểu về nội dung công việc của giáo viên chủ nhiệm lớp; nội dung, kế hoạch thực hiện công tác chủ nhiệm lớp, thông qua giáo viên lên lớp dự giờ thực tập sư phạm I chủ nhiệm; tìm hiểu về hồ sơ công tác chủ nhiệm lớp của một giáo viên, cách phân loại kết quả học tập, rèn luyện của học sinh, thông qua lớp dự giờ thực tập sư phạm I chủ nhiệm)."
+  },
+  {
+    "id": "P0032",
+    "text": "* Thầy cô hướng dẫn chuyên môn"
+  },
+  {
+    "id": "P0033",
+    "text": "- Giảng dạy để SV dự giờ theo sự phân công của Ban chỉ đạo (mỗi SV dự đủ 07 tiết); tất cả các tiết dạy, GV phải sắp xếp thời gian, tổ chức cho SV hội ý, rút kinh nghiệm; nhận xét đánh giá tiết dự giờ của sinh viên theo quy định; hướng dẫn chuyên môn giáo viên ưu tiên chương trình lớp 10 và 11."
+  },
+  {
+    "id": "P0034",
+    "text": "* Lưu ý đối với sinh viên ngành Sư phạm Công nghệ:"
+  },
+  {
+    "id": "P0035",
+    "text": "Mỗi sinh viên dự đủ 07 tiết chuyên môn, gồm 04 tiết Công nghệ công nghiệp và 03 tiết Công nghệ nông nghiệp, do 02 giáo viên hướng dẫn phụ trách."
+  },
+  {
+    "id": "P0036",
+    "text": "II. PHÂN CÔNG GIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0037",
+    "text": "Theo phụ lục đính kèm."
+  },
+  {
+    "id": "P0038",
+    "text": "III. NỘI DUNG CÔNG TÁC THỰC TẬP SƯ PHẠM I VÀ KẾ HOẠCH CỤ THỂ"
+  },
+  {
+    "id": "T0039",
+    "rows": [
+      [
+        "TT",
+        "Thời gian",
+        "Nội dung công việc",
+        "Người phụ trách"
+      ],
+      [
+        "1",
+        "Ngày đầu tiên \ncủa đợt TTSP1 \n26/10/2026 (Thứ Hai)",
+        "- 7h00: Sinh viên dự tiết chào cờ đầu tuần (Tiết 1) tại sân Nhà H nếu trời nắng hoặc gặp mặt BGH và GVCN tại phòng hội đồng H.II.1 sau đó sinh hoạt tại lớp nếu trời mưa.\n- Sinh viên ra mắt lớp thực tập sư phạm I chủ nhiệm vào tiết 1 hoặc giờ ra chơi.",
+        "- BGH, GVCN, SVTT1"
+      ],
+      [
+        "",
+        "Từ 8h00",
+        "SV nghe báo cáo về tình hình nhà trường tại phòng Hội đồng.",
+        "BGH, SVTT1"
+      ],
+      [
+        "",
+        "Từ 8h30",
+        "SV nghe báo cáo hoạt động Đoàn TNCS Hồ Chí Minh của nhà trường tại phòng Hội đồng.",
+        "Đoàn trường, SVTT1"
+      ],
+      [
+        "",
+        "Từ 9h00",
+        "SV gặp mặt GVHD chuyên môn.",
+        "GVHD, SVTT1"
+      ],
+      [
+        "2",
+        "Các ngày còn lại của tuần 1 và tuần kế tiếp \nTừ 27/10/2026 đến 14/11/2026",
+        "SV bắt đầu thực hiện các nội dung của đợt thực tập sư phạm I:\n- Tiếp xúc, trao đổi với GVHD để tìm hiểu thực tế công tác giáo dục, nội dung công việc của người giáo viên ở trường, chuẩn bị viết bài thu hoạch; hoàn thành bài tìm hiểu thực tế giáo dục, Trưởng đoàn nộp cho nhà trường sau tuần đầu tiên (hạn cuối: 02/11/2026).\n- Sinh viên thực hiện dự giờ chuyên môn \n(7 tiết) và chủ nhiệm (3 tiết) theo sự phân công của GVHD.\n- Sinh viên trao đổi với GVCN để nắm tình hình học sinh trong lớp; ra mắt và tiếp xúc với lớp thực tập sư phạm I chủ nhiệm để tìm hiểu tình hình của lớp.\n- Sinh viên tham dự các tiết dự giờ của bộ môn trong thời gian thực tập sư phạm I.\nLưu ý:\n- GVHD chuyên môn thông báo rõ thời gian sinh viên dự giờ vào đầu các tuần học.\n- SV thực tập sư phạm I dự tất cả các tiết sinh hoạt lớp chủ nhiệm (hoặc các tiết Hoạt động trải nghiệm – hướng nghiệp) vào thứ Bảy hàng tuần.",
+        "Các GVHD thực tập sư phạm I, SVTT1 (có thể làm việc tại phòng Hội đồng, H.II.1)."
+      ],
+      [
+        "3",
+        "Tuần cuối của đợt TTSP1\nTừ 16/11/2026 đến 21/11/2026",
+        "- Sinh viên hoàn thành bài thu hoạch giảng dạy và chủ nhiệm; Trưởng đoàn tập hợp, đóng thành một tập chung và nộp cho nhà trường. Hạn cuối: hết ngày 17/11/2026.\n- GVHD đánh giá sinh viên thực tập sư phạm I về dự giờ và công tác chủ nhiệm lớp theo hướng dẫn và gửi hồ sơ đánh giá sinh viên về email:\nthptthuanhoa@dhsphue.edu.vn, đồng thời nộp bản giấy tại phòng văn thư (cô Hiền). Hạn cuối: hết ngày 18/11/2026.\n- Ban chỉ đạo thực tập sư phạm I tổ chức đánh giá sinh viên và tổng kết đợt thực tập sư phạm I lúc 14h ngày 21/11/2026 (thứ Bảy) tại Phòng Hội đồng.\n- Tập hợp hồ sơ thực tập sư phạm I của các sinh viên gửi về Trường Đại học Sư phạm – Đại học Huế.",
+        "Ban chỉ đạo TTSP I, GVHD, SVTT1"
+      ]
+    ]
+  },
+  {
+    "id": "P0040",
+    "text": "Lưu ý: Hồ sơ THỰC TẬP SƯ PHẠM I"
+  },
+  {
+    "id": "P0041",
+    "text": "- Bài tìm hiểu thực tế giáo dục: Mỗi sinh viên hoàn thành sau tuần đầu tiên của đợt thực tập. Trưởng đoàn tập hợp bài của cả đoàn, nộp cho nhà trường (Ban chỉ đạo) chậm nhất ngày 02/11/2026."
+  },
+  {
+    "id": "P0042",
+    "text": "- Hồ sơ thực tập: Mỗi sinh viên hoàn thiện một tập chung, có trang bìa, gồm hai phần:"
+  },
+  {
+    "id": "P0043",
+    "text": "+ Công tác giảng dạy: gồm bài thu hoạch về công tác giảng dạy; 07 đề cương dự giờ và 07 phiếu dự giờ chuyên môn."
+  },
+  {
+    "id": "P0044",
+    "text": "+ Công tác chủ nhiệm: gồm bài thu hoạch về công tác chủ nhiệm; 03 đề cương dự giờ (tiết HĐTN - HN) và 03 phiếu dự giờ."
+  },
+  {
+    "id": "P0045",
+    "text": "- Quy trình nộp: Sinh viên nộp tập hồ sơ cho GVHD nhận xét, ký xác nhận, sau đó nộp cho Trưởng đoàn. Trưởng đoàn tập hợp toàn đoàn và nộp cho nhà trường (Ban chỉ đạo) chậm nhất hết ngày 17/11/2026."
+  },
+  {
+    "id": "P0046",
+    "text": "- Đánh giá: Nhóm trưởng bộ môn và GVHD chủ nhiệm cùng Ban chỉ đạo nhận xét, đánh giá theo phần việc phụ trách; hồ sơ được lưu vào hồ sơ thực tập sư phạm I."
+  },
+  {
+    "id": "P0047",
+    "text": "- Trưởng đoàn thực tập sư phạm I tập hợp email, SĐT liên lạc theo mẫu của giáo vụ nhà trường để tiện trong quá trình tổ chức thực hiện."
+  },
+  {
+    "id": "P0048",
+    "text": "- Giáo vụ gửi giáo viên hướng dẫn danh sách sinh viên thực tập sư phạm I và các biểu mẫu nhập điểm."
+  },
+  {
+    "id": "P0049",
+    "text": "Trên đây là kế hoạch triển khai đợt thực tập sư phạm I năm học 2026 – 2027 của Trường THPT Thuận Hóa. Trong quá trình thực hiện nếu có thay đổi, Ban chỉ đạo sẽ thông báo cụ thể tại bảng tin hàng tuần của trường. Đề nghị các tổ/chuyên môn, các bộ phận liên quan và sinh viên thực tập sư phạm I phối hợp nghiêm túc thực hiện."
+  },
+  {
+    "id": "T0050",
+    "rows": [
+      [
+        "Nơi nhận:                                                                                                                    \n- Trường ĐHSP Huế (để phối hợp);\n- Sở GD&ĐT TP Huế (để báo cáo);\n- Các tổ/nhóm CM, GVCN, GVHD (để triển khai thực hiện);\n- Lưu: VT.",
+        "TRƯỞNG BAN CHỈ ĐẠO\nHIỆU TRƯỞNG\n\n\n\nDương Đức Giáp"
+      ]
+    ]
+  },
+  {
+    "id": "T0051",
+    "rows": [
+      [
+        "TRƯỜNG ĐẠI HỌC SƯ PHẠM, ĐH HUẾ\nTRƯỜNG THPT THUẬN HÓA",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc"
+      ]
+    ]
+  },
+  {
+    "id": "P0052",
+    "text": "DANH SÁCH PHÂN CÔNG GIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0053",
+    "text": "THỰC TẬP SƯ PHẠM I NĂM HỌC 2026 – 2027"
+  },
+  {
+    "id": "P0054",
+    "text": "(Kèm theo kế hoạch số         ngày 21 tháng 10 năm 2026 của trường THPT Thuận Hóa)"
+  },
+  {
+    "id": "P0055",
+    "text": "I. HƯỚNG DẪN CHUYÊN MÔN"
+  },
+  {
+    "id": "T0056",
+    "rows": [
+      [
+        "TT",
+        "HỌ VÀ TÊN SV",
+        "NGÀY SINH",
+        "NGÀNH",
+        "Nữ",
+        "Hướng dẫn chuyên môn"
+      ],
+      [
+        "1",
+        "NGUYỄN THẢO",
+        "DUYÊN",
+        "11.09.06",
+        "SP Toán học",
+        "Nữ",
+        "Trần Ngọc Đức Toàn"
+      ],
+      [
+        "2",
+        "NGUYỄN VĂN",
+        "ĐÀI",
+        "08.12.06",
+        "SP Toán học",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "ĐẬU HẢI",
+        "HÀ",
+        "08.07.06",
+        "SP Toán học",
+        "Nữ",
+        "Nguyễn Hữu Nhanh Tiến"
+      ],
+      [
+        "4",
+        "HOÀNG TRƯƠNG NGỌC",
+        "LĨNH",
+        "24.10.06",
+        "SP Toán học",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "NGUYỄN XUÂN",
+        "NGHĨA",
+        "30.01.06",
+        "SP Toán học",
+        "",
+        "Trần Sỹ Nhân"
+      ],
+      [
+        "6",
+        "LÊ THỊ ÁNH",
+        "PHƯƠNG",
+        "06.04.05",
+        "SP Toán học",
+        "Nữ",
+        ""
+      ],
+      [
+        "7",
+        "ALĂNG",
+        "ALONG",
+        "17.01.06",
+        "SP Tin học",
+        "",
+        "Nguyễn Nhất Tân"
+      ],
+      [
+        "8",
+        "ĐƯỜNG MINH",
+        "ANH",
+        "09.01.06",
+        "SP Tin học",
+        "Nữ",
+        ""
+      ],
+      [
+        "9",
+        "ĐINH VĂN",
+        "HÀO",
+        "09.11.06",
+        "SP Tin học",
+        "",
+        ""
+      ],
+      [
+        "10",
+        "HỒ QUANG",
+        "HUY",
+        "25.02.06",
+        "SP Tin học",
+        "",
+        "Mai Xuân Văn"
+      ],
+      [
+        "11",
+        "HUỲNH GIANG",
+        "SƠN",
+        "27.12.06",
+        "SP Tin học",
+        "",
+        ""
+      ],
+      [
+        "12",
+        "NGUYỄN PHƯƠNG",
+        "TRÀ",
+        "17.12.06",
+        "SP Tin học",
+        "Nữ",
+        ""
+      ],
+      [
+        "13",
+        "NGÔ THỊ",
+        "CHÂU",
+        "28.01.06",
+        "SP Vật Lý",
+        "Nữ",
+        "Huỳnh Vũ Long"
+      ],
+      [
+        "14",
+        "TRẦN MINH",
+        "HUY",
+        "20.11.06",
+        "SP Vật Lý",
+        "",
+        ""
+      ],
+      [
+        "15",
+        "NGUYỄN THANH",
+        "HUYỀN",
+        "18.06.05",
+        "SP Vật Lý",
+        "Nữ",
+        "Trần Văn Dũng"
+      ],
+      [
+        "16",
+        "PHẠM HỮU",
+        "HÙNG",
+        "06.09.06",
+        "SP Công nghệ",
+        "",
+        "Hồ Đắc Thái Sơn, Nguyễn Thị Hiền"
+      ],
+      [
+        "17",
+        "NGUYỄN TRỌNG",
+        "LỘC",
+        "25.11.06",
+        "SP Công nghệ",
+        "",
+        ""
+      ],
+      [
+        "18",
+        "BÙI NGỌC MINH",
+        "QUÂN",
+        "02.10.06",
+        "SP Công nghệ",
+        "",
+        ""
+      ],
+      [
+        "19",
+        "PHAN THỊ THUỲ",
+        "DUNG",
+        "02.07.06",
+        "SP Hóa học",
+        "Nữ",
+        "Trương Thị Thu Thảo"
+      ],
+      [
+        "20",
+        "NGUYỄN NGỌC THẢO",
+        "LY",
+        "11.10.06",
+        "SP Hóa học",
+        "Nữ",
+        "Nguyễn Thị Thu Phương"
+      ],
+      [
+        "21",
+        "THÁI QUỐC",
+        "THỊNH",
+        "31.01.06",
+        "SP Hóa học",
+        "",
+        "Lê Thị Hương"
+      ],
+      [
+        "22",
+        "NGUYỄN DIỆU",
+        "LINH",
+        "08.10.06",
+        "SP Sinh học",
+        "Nữ",
+        "Võ Bá Định"
+      ],
+      [
+        "23",
+        "NGUYỄN HỒ NGỌC",
+        "SƯƠNG",
+        "15.03.06",
+        "SP Sinh học",
+        "Nữ",
+        ""
+      ],
+      [
+        "24",
+        "TRẦN PHONG",
+        "VŨ",
+        "30.06.06",
+        "SP Sinh học",
+        "",
+        ""
+      ],
+      [
+        "25",
+        "BÙI THỊ",
+        "HIỀN",
+        "31.05.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        "Trương Thị Xuân Quỳnh"
+      ],
+      [
+        "26",
+        "MÃ THỊ ANH",
+        "THƯ",
+        "10.07.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        ""
+      ],
+      [
+        "27",
+        "LƯƠNG THỊ HẢI",
+        "YẾN",
+        "25.11.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        ""
+      ],
+      [
+        "28",
+        "MAI PHƯƠNG",
+        "DUY",
+        "06.10.06",
+        "GD Pháp luật",
+        "",
+        ""
+      ],
+      [
+        "29",
+        "VŨ THỊ",
+        "HÀ",
+        "20.06.06",
+        "GD Pháp luật",
+        "Nữ",
+        "Vũ Thị Hợp"
+      ],
+      [
+        "30",
+        "HẠ NHÃ",
+        "LINH",
+        "06.11.06",
+        "GD Pháp luật",
+        "Nữ",
+        ""
+      ],
+      [
+        "31",
+        "MAI KHÁNH",
+        "LINH",
+        "02.03.06",
+        "GD Pháp luật",
+        "Nữ",
+        ""
+      ],
+      [
+        "32",
+        "NGUYỄN KIM",
+        "ÁNH",
+        "15.12.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "Nguyễn Hữu Minh"
+      ],
+      [
+        "33",
+        "NGUYỄN NGỌC",
+        "ÁNH",
+        "14.08.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "34",
+        "NGUYỄN HOÀNG SONG",
+        "HƯƠNG",
+        "26.09.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "35",
+        "PHẠM THỊ THU",
+        "HƯƠNG",
+        "09.08.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "Lê Thị Thuyên"
+      ],
+      [
+        "36",
+        "TỐNG PHƯƠNG",
+        "KIỀU",
+        "18.05.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "37",
+        "HÀ THỊ",
+        "TIẾN",
+        "18.10.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "38",
+        "LÊ BỘI",
+        "TRÂN",
+        "07.07.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "Đàm Thị Mai"
+      ],
+      [
+        "39",
+        "TÔ NỮ CÁT",
+        "TƯỜNG",
+        "29.05.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "40",
+        "NGUYỄN TRẦN PHƯƠNG",
+        "UYÊN",
+        "09.12.06",
+        "SP Ngữ văn",
+        "Nữ",
+        ""
+      ],
+      [
+        "41",
+        "TRẦN HỒNG",
+        "ANH",
+        "05.09.06",
+        "SP Lịch sử",
+        "Nữ",
+        "Võ Thanh Bắc"
+      ],
+      [
+        "42",
+        "LÊ THUẦN",
+        "TƯỞNG",
+        "23.01.06",
+        "SP Lịch sử",
+        "",
+        ""
+      ],
+      [
+        "43",
+        "PHAN LÊ TỐ",
+        "UYÊN",
+        "16.12.06",
+        "SP Lịch sử",
+        "Nữ",
+        ""
+      ],
+      [
+        "44",
+        "LÊ THỊ PHƯƠNG",
+        "THẢO",
+        "23.12.06",
+        "SP Địa lý",
+        "Nữ",
+        "Trương Thị Bình"
+      ],
+      [
+        "45",
+        "NGUYỄN THỊ PHƯƠNG",
+        "THẢO",
+        "31.03.06",
+        "SP Địa lý",
+        "Nữ",
+        ""
+      ],
+      [
+        "46",
+        "ĐẶNG TRẦN HUYỀN",
+        "TRANG",
+        "06.09.06",
+        "SP Địa lý",
+        "Nữ",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0057",
+    "text": "Tổng kết danh sách này có: 46 SV"
+  },
+  {
+    "id": "T0058",
+    "rows": [
+      [
+        "TRƯỜNG ĐẠI HỌC SƯ PHẠM, ĐH HUẾ\nTRƯỜNG THPT THUẬN HÓA",
+        "CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc"
+      ]
+    ]
+  },
+  {
+    "id": "P0059",
+    "text": "DANH SÁCH PHÂN CÔNG GIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0060",
+    "text": "THỰC TẬP SƯ PHẠM I NĂM HỌC 2026 – 2027"
+  },
+  {
+    "id": "P0061",
+    "text": "(Kèm theo kế hoạch số         ngày 21 tháng 10 năm 2026 của trường THPT Thuận Hóa)"
+  },
+  {
+    "id": "P0062",
+    "text": "II. HƯỚNG DẪN CHỦ NHIỆM"
+  },
+  {
+    "id": "T0063",
+    "rows": [
+      [
+        "TT",
+        "HỌ VÀ",
+        "TÊN SV",
+        "NGÀY SINH",
+        "NGÀNH",
+        "Nữ",
+        "Chức vụ thực tập",
+        "Hướng dẫn chủ nhiệm"
+      ],
+      [
+        "1",
+        "NGUYỄN NGỌC THẢO",
+        "LY",
+        "11.10.06",
+        "SP Hóa học",
+        "Nữ",
+        "",
+        "Lê Thị Thuyên"
+      ],
+      [
+        "2",
+        "ALĂNG",
+        "ALONG",
+        "17.01.06",
+        "SP Tin học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "NGÔ THỊ",
+        "CHÂU",
+        "28.01.06",
+        "SP Vật Lý",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "4",
+        "TRẦN PHONG",
+        "VŨ",
+        "30.06.06",
+        "SP Sinh học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "5",
+        "PHAN LÊ TỐ",
+        "UYÊN",
+        "16.12.06",
+        "SP Lịch sử",
+        "Nữ",
+        "",
+        "Trần Văn Dũng"
+      ],
+      [
+        "6",
+        "NGUYỄN NGỌC",
+        "ÁNH",
+        "14.08.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "7",
+        "NGUYỄN THANH",
+        "HUYỀN",
+        "18.06.05",
+        "SP Vật Lý",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "8",
+        "HÀ THỊ",
+        "TIẾN",
+        "18.10.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        "Lê Thị Hương"
+      ],
+      [
+        "9",
+        "ĐẶNG TRẦN HUYỀN",
+        "TRANG",
+        "06.09.06",
+        "SP Địa lý",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "10",
+        "ĐINH VĂN",
+        "HÀO",
+        "09.11.06",
+        "SP Tin học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "11",
+        "NGUYỄN TRỌNG",
+        "LỘC",
+        "25.11.06",
+        "SP Công nghệ",
+        "",
+        "Trưởng đoàn",
+        "Trần Ngọc Đức Toàn"
+      ],
+      [
+        "12",
+        "HẠ NHÃ",
+        "LINH",
+        "06.11.06",
+        "GD Pháp luật",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "13",
+        "NGUYỄN VĂN",
+        "ĐÀI",
+        "08.12.06",
+        "SP Toán học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "14",
+        "ĐƯỜNG MINH",
+        "ANH",
+        "09.01.06",
+        "SP Tin học",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "15",
+        "NGUYỄN PHƯƠNG",
+        "TRÀ",
+        "17.12.06",
+        "SP Tin học",
+        "Nữ",
+        "",
+        "Trần Sỹ Nhân"
+      ],
+      [
+        "16",
+        "NGUYỄN DIỆU",
+        "LINH",
+        "08.10.06",
+        "SP Sinh học",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "17",
+        "PHẠM HỮU",
+        "HÙNG",
+        "06.09.06",
+        "SP Công nghệ",
+        "",
+        "",
+        ""
+      ],
+      [
+        "18",
+        "VŨ THỊ",
+        "HÀ",
+        "20.06.06",
+        "GD Pháp luật",
+        "Nữ",
+        "",
+        "Trương Thị Xuân Quỳnh"
+      ],
+      [
+        "19",
+        "HOÀNG TRƯƠNG NGỌC",
+        "LĨNH",
+        "24.10.06",
+        "SP Toán học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "20",
+        "TRẦN HỒNG",
+        "ANH",
+        "05.09.06",
+        "SP Lịch sử",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "21",
+        "TỐNG PHƯƠNG",
+        "KIỀU",
+        "18.05.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "22",
+        "MAI KHÁNH",
+        "LINH",
+        "02.03.06",
+        "GD Pháp luật",
+        "Nữ",
+        "",
+        "Nguyễn Hữu Nhanh Tiến"
+      ],
+      [
+        "23",
+        "MÃ THỊ ANH",
+        "THƯ",
+        "10.07.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "24",
+        "NGUYỄN HOÀNG SONG",
+        "HƯƠNG",
+        "26.09.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "25",
+        "LƯƠNG THỊ HẢI",
+        "YẾN",
+        "25.11.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "26",
+        "ĐẬU HẢI",
+        "HÀ",
+        "08.07.06",
+        "SP Toán học",
+        "Nữ",
+        "",
+        "Lê Văn Hoàn"
+      ],
+      [
+        "27",
+        "HUỲNH GIANG",
+        "SƠN",
+        "27.12.06",
+        "SP Tin học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "28",
+        "NGUYỄN KIM",
+        "ÁNH",
+        "15.12.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "29",
+        "PHAN THỊ THUỲ",
+        "DUNG",
+        "02.07.06",
+        "SP Hóa học",
+        "Nữ",
+        "",
+        "Nguyễn Thị Thu Phương"
+      ],
+      [
+        "30",
+        "HỒ QUANG",
+        "HUY",
+        "25.02.06",
+        "SP Tin học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "31",
+        "BÙI THỊ",
+        "HIỀN",
+        "31.05.06",
+        "Giáo dục Chính trị",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "32",
+        "NGUYỄN TRẦN PHƯƠNG",
+        "UYÊN",
+        "09.12.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "33",
+        "TÔ NỮ CÁT",
+        "TƯỜNG",
+        "29.05.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        "Hoàng Đức Vương"
+      ],
+      [
+        "34",
+        "THÁI QUỐC",
+        "THỊNH",
+        "31.01.06",
+        "SP Hóa học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "35",
+        "MAI PHƯƠNG",
+        "DUY",
+        "06.10.06",
+        "GD Pháp luật",
+        "",
+        "",
+        ""
+      ],
+      [
+        "36",
+        "LÊ BỘI",
+        "TRÂN",
+        "07.07.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "Phó đoàn",
+        "Đàm Thị Mai"
+      ],
+      [
+        "37",
+        "LÊ THUẦN",
+        "TƯỞNG",
+        "23.01.06",
+        "SP Lịch sử",
+        "",
+        "",
+        ""
+      ],
+      [
+        "38",
+        "TRẦN MINH",
+        "HUY",
+        "20.11.06",
+        "SP Vật Lý",
+        "",
+        "",
+        ""
+      ],
+      [
+        "39",
+        "NGUYỄN THẢO",
+        "DUYÊN",
+        "11.09.06",
+        "SP Toán học",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "40",
+        "LÊ THỊ PHƯƠNG",
+        "THẢO",
+        "23.12.06",
+        "SP Địa lý",
+        "Nữ",
+        "",
+        "Trương Thị Bình"
+      ],
+      [
+        "41",
+        "NGUYỄN XUÂN",
+        "NGHĨA",
+        "30.01.06",
+        "SP Toán học",
+        "",
+        "",
+        ""
+      ],
+      [
+        "42",
+        "PHẠM THỊ THU",
+        "HƯƠNG",
+        "09.08.06",
+        "SP Ngữ văn",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "43",
+        "NGUYỄN THỊ PHƯƠNG",
+        "THẢO",
+        "31.03.06",
+        "SP Địa lý",
+        "Nữ",
+        "Phó đoàn",
+        "Lê Nguyễn Tú Trinh"
+      ],
+      [
+        "44",
+        "LÊ THỊ ÁNH",
+        "PHƯƠNG",
+        "06.04.05",
+        "SP Toán học",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "45",
+        "NGUYỄN HỒ NGỌC",
+        "SƯƠNG",
+        "15.03.06",
+        "SP Sinh học",
+        "Nữ",
+        "",
+        ""
+      ],
+      [
+        "46",
+        "BÙI NGỌC MINH",
+        "QUÂN",
+        "02.10.06",
+        "SP Công nghệ",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0064",
+    "text": "Tổng kết danh sách này có: 46 SV"
+  }
+]

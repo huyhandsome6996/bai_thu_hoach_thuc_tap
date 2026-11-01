@@ -1,0 +1,42 @@
+[
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image1.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image1.jpeg"
+  },
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image2.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image2.jpeg"
+  },
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image3.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image3.jpeg"
+  },
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image4.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image4.jpeg"
+  },
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image5.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image5.jpeg"
+  },
+  {
+    "source": "BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+    "member": "word/media/image6.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/BAO_CAO_DOAN_TTSP1_THANG_10/image6.jpeg"
+  },
+  {
+    "source": "Bìa bài thu hoạch trường.docx",
+    "member": "word/media/image1.jpeg",
+    "extracted": "04_scripts/extracted_sources/media/Bìa bài thu hoạch trường/image1.jpeg"
+  },
+  {
+    "source": "Bìa bài thu hoạch trường.docx",
+    "member": "word/media/image2.png",
+    "extracted": "04_scripts/extracted_sources/media/Bìa bài thu hoạch trường/image2.png"
+  }
+]

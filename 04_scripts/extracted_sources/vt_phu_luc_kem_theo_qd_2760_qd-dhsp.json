@@ -1,0 +1,3693 @@
+[
+  {
+    "id": "P0001",
+    "text": "PHỤ LỤC"
+  },
+  {
+    "id": "P0002",
+    "text": "Phụ lục 1\nNỘI QUY THỰC TẬP SƯ PHẠM"
+  },
+  {
+    "id": "P0003",
+    "text": "Để đảm bảo hoàn thành tốt thực tập sư phạm, sinh viên phải thực hiện nghiêm chỉnh các điều khoản sau đây:"
+  },
+  {
+    "id": "P0004",
+    "text": "Điều 1. Chấp hành nghiêm chỉnh các quy định về thời gian tham gia hoạt động thực tập sư phạm."
+  },
+  {
+    "id": "P0005",
+    "text": "Phải đảm bảo đủ thời gian theo quy định của đợt thực tập. Đến và rời cơ sở thực tập, trong hội họp, sinh hoạt, lên lớp, dự giờ,….đúng thời gian quy định. Tuyệt đối không đi muộn, về sớm."
+  },
+  {
+    "id": "P0006",
+    "text": "Trong đợt thực tập không được vắng mặt (không có lý do chính đáng) ở bất cứ hoạt động nào, muốn đi đâu phải xin phép Trưởng Ban Chỉ đạo cơ sở thực tập và chỉ được rời cơ sở thực tập khi đã được cho phép."
+  },
+  {
+    "id": "P0007",
+    "text": "Thực hiện nghiêm chỉnh các nội quy, quy chế, nề nếp giảng dạy, học tập và sinh hoạt của cơ sở thực tập, không được làm điều gì trái với quy định của cơ sở thực tập."
+  },
+  {
+    "id": "P0008",
+    "text": "Điều 2. Giữ gìn, tạo ấn tượng tốt và tuyên tuyền về hình ảnh của sinh viên ngành sư phạm nói riêng và giáo viên nói chung."
+  },
+  {
+    "id": "P0009",
+    "text": "Tác phong sinh hoạt gồm trang phục, phong cách, phát ngôn phải đảm bảo tính chuẩn mực, gọn gàng tuân theo các quy định của cơ sở thực tập, của chuẩn giáo viên."
+  },
+  {
+    "id": "P0010",
+    "text": "Tuân thủ các quy định của Nhà nước về việc cấm hút thuốc lá trong trường học và nơi công cộng; cấm uống bia rượu trong cơ sở thực tập."
+  },
+  {
+    "id": "P0011",
+    "text": "Tạo mối quan hệ tốt, xây dựng hình ảnh đẹp về ngành nghề với người học, với cán bộ- giáo viên và với cộng đồng dân cư tại địa bàn thực tập."
+  },
+  {
+    "id": "P0012",
+    "text": "a)\tĐối với nhân dân, phải tôn trọng phong tục, tập quán, truyền thống của địa phương. Cần tìm hiểu, học tập và tuyên truyền chính sách của Đảng và Nhà nước trong nhân dân. Nghiêm cấm thông tin đồn sai sự thật, tuyên truyền các tin xấu, độc."
+  },
+  {
+    "id": "P0013",
+    "text": "b)\tĐối với cán bộ, giáo viên cơ sở thực tập, phải thật sự tôn trọng, khiêm tốn học hỏi. Có ý kiến cần góp ý với cán bộ, giáo viên và cơ sở thực tập phải thông qua tổ chức, không phát ngôn bừa bãi."
+  },
+  {
+    "id": "P0014",
+    "text": "c)\tĐối với học sinh/trẻ mầm non, phải thực sự thương yêu, giúp đỡ và giáo dục học sinh/trẻ mầm non. Cấm đánh đập, sỉ nhục, cấm đặt vấn đề yêu đương và uống rượu bia với học sinh trong thời gian thực tập. Nghiêm cấm việc đưa học sinh/trẻ mầm non ra khỏi trường khi chưa được phép của Ban Chỉ đạo cơ sở thực tập."
+  },
+  {
+    "id": "P0015",
+    "text": "Phải đề cao cảnh giác cách mạng, bảo vệ trật tự trị an lúc đi, về và  lúc ở trong cơ sở thực tập. Bảo quản tốt tài sản chung và  tài sản riêng. Cấm vay, mượn tiền, xe, dụng cụ... của cơ sở thực tập, của nhân dân và nhất là của học sinh; sòng phẳng về tài chính."
+  },
+  {
+    "id": "P0016",
+    "text": "Khắc phục khó khăn, tranh thủ thời gian để thực hiện đầy đủ các nội dung thực tập sư phạm đã được quy định. Khi dự giờ phải chú ý ghi chép để học tập và rút kinh nghiệm. Cấm nói chuyện riêng trong các buổi sinh hoạt và trong khi tham gia các hoạt động tại cơ sở thực tập."
+  },
+  {
+    "id": "P0017",
+    "text": "Điều 3. Hoàn thành tốt nhiệm vụ chuyên môn."
+  },
+  {
+    "id": "P0018",
+    "text": "Đoàn kết và giúp đỡ lẫn nhau để hoàn thành tốt tất cả các nhiệm vụ. Tuân thủ nghiêm ngặt sự phân công của Ban Chỉ đạo cơ sở thực tập, của Tổ trưởng chuyên môn, Tổ trưởng chủ nhiệm, của giáo viên hướng dẫn, của Trưởng đoàn, của Ban đại diện sinh viên và Nhóm trưởng thực tập."
+  },
+  {
+    "id": "P0019",
+    "text": "Lập kế hoạch chu đáo về lịch tập giảng, về sinh hoạt chuyên môn, báo cáo Ban Chỉ đạo cơ sở thực tập phê duyệt và thực hiện."
+  },
+  {
+    "id": "P0020",
+    "text": "Điều 4. Các quy định chung."
+  },
+  {
+    "id": "P0021",
+    "text": "Các Phụ trách đoàn thực tập, Ban đại diện sinh viên, Nhóm trưởng đôn đốc, nhắc nhở sinh viên thực hiện nội quy. Sinh viên nào thực hiện tốt nội quy thì được biểu dương, khen thưởng, sinh viên nào vi phạm nội quy thì tuỳ mức độ mà bị kỷ luật từ khiển trách, cảnh cáo đến đình chỉ học tập."
+  },
+  {
+    "id": "P0022",
+    "text": "Tuỳ tình hình cụ thể của cơ sở thực tập, Ban Chỉ đạo cơ sở thực tập có thể bổ sung thêm một số điểm vào nội quy để thực hiện."
+  },
+  {
+    "id": "P0023",
+    "text": "Phụ lục 2\nHƯỚNG DẪN DỰ GIỜ VÀ RÚT KINH NGHIỆM GIỜ DẠY"
+  },
+  {
+    "id": "P0024",
+    "text": "……………, Thứ …………… ngày ……… tháng ……… năm ………"
+  },
+  {
+    "id": "P0025",
+    "text": "Giáo viên (SV thực tập) dạy: …………………………………………………… Tiết thứ: …………… Lớp:"
+  },
+  {
+    "id": "P0026",
+    "text": "Môn học/Hoạt động:"
+  },
+  {
+    "id": "P0027",
+    "text": "Bài dạy:"
+  },
+  {
+    "id": "P0028",
+    "text": "Họ tên, số lượng sinh viên tham dự:"
+  },
+  {
+    "id": "P0029",
+    "text": "Họ tên giảng viên ĐHSP (nếu có) và trường thực tập tham dự:"
+  },
+  {
+    "id": "P0030",
+    "text": "I. Chuẩn bị trước khi dự giờ"
+  },
+  {
+    "id": "P0031",
+    "text": "1.\tSinh viên phải tìm hiểu bài học, soạn đề cương kế hoạch bài dạy."
+  },
+  {
+    "id": "P0032",
+    "text": "2.\tXác định được mục tiêu, yêu cầu cần đạt nội dung và các phương pháp sẽ sử dụng cho bài dạy."
+  },
+  {
+    "id": "P0033",
+    "text": "II.\tCông việc của sinh viên dự giờ"
+  },
+  {
+    "id": "P0034",
+    "text": "Quan sát và ghi những nhận xét của mình theo mẫu sau:"
+  },
+  {
+    "id": "P0035",
+    "text": "1.\tViệc chuẩn bị của giáo viên và học sinh (cần quan sát tiến trình dạy học và những điều kiện đảm bảo cho giờ dạy để xác định khách quan các mặt)"
+  },
+  {
+    "id": "P0036",
+    "text": "- Ý nghĩa giáo dục - giáo dưỡng (qua mục tiêu, yêu cầu cần đạt nhiệm vụ cơ bản của bài học)."
+  },
+  {
+    "id": "P0037",
+    "text": "- Quá trình hình thành bài dạy, kỹ năng của giáo viên."
+  },
+  {
+    "id": "P0038",
+    "text": "- Dàn bài và nội dung trọng tâm (thể hiện hợp lý không...)."
+  },
+  {
+    "id": "P0039",
+    "text": "- Phương pháp dạy học, hình thức dạy học,… sử dụng đồ dùng dạy học."
+  },
+  {
+    "id": "P0040",
+    "text": "- Tính sáng tạo của giáo viên trong giờ dạy."
+  },
+  {
+    "id": "P0041",
+    "text": "2.\tBắt đầu giờ học, nhận xét rút kinh nghiệm các phần"
+  },
+  {
+    "id": "P0042",
+    "text": "- Ổn định tổ chức, khởi động bài học, dẫn dắt vào bài mới, phương pháp kiểm tra."
+  },
+  {
+    "id": "P0043",
+    "text": "- Việc chuẩn bị bài của học sinh/tâm thế của trẻ mầm non trước khi vào hoạt động."
+  },
+  {
+    "id": "P0044",
+    "text": "- Nhận xét và đánh giá của giáo viên dành cho học sinh/trẻ mầm non."
+  },
+  {
+    "id": "P0045",
+    "text": "3.\tTrình bày bài mới"
+  },
+  {
+    "id": "P0046",
+    "text": "* Hoạt động dạy của giáo viên:"
+  },
+  {
+    "id": "P0047",
+    "text": "- Kiến thức, kỹ năng đạt được, phẩm chất và năng lực hướng đến."
+  },
+  {
+    "id": "P0048",
+    "text": "- Tính khoa học, hệ thống, kế thừa, sáng tạo của giáo viên."
+  },
+  {
+    "id": "P0049",
+    "text": "- Phương pháp sư phạm: thể hiện phương pháp đặc trưng môn học, tiết học, tác động tích cực đến học sinh/trẻ mầm non."
+  },
+  {
+    "id": "P0050",
+    "text": "- Thiết kế bài dạy hợp lí; vai trò của giáo viên trong tiết dạy; sử dụng và kết hợp tốt các phương tiện thiết bị dạy học phù hợp với nội dung kiến thức bài dạy."
+  },
+  {
+    "id": "P0051",
+    "text": "- Thái độ, phong cách, cử chỉ, lời nói, ngôn ngữ của giáo viên."
+  },
+  {
+    "id": "P0052",
+    "text": "- Phương pháp củng cố bài học/hoạt động của giáo viên."
+  },
+  {
+    "id": "P0053",
+    "text": "* Hoạt động của học sinh/trẻ mầm non:"
+  },
+  {
+    "id": "P0054",
+    "text": "- Tinh thần, thái độ, hứng thú."
+  },
+  {
+    "id": "P0055",
+    "text": "- Việc làm, các hoạt động của người học."
+  },
+  {
+    "id": "P0056",
+    "text": "*\tKết quả tiết dạy (dựa vào quan hệ qua lại giữa giáo viên và học sinh/trẻ):"
+  },
+  {
+    "id": "P0057",
+    "text": "- Đã thực hiện được mức độ nào trong các yêu cầu cần đạt của bài dạy;"
+  },
+  {
+    "id": "P0058",
+    "text": "- Kỹ năng, kiến thức cơ bản được hình thành; phẩm chất và năng lực có cơ hội được phát triển"
+  },
+  {
+    "id": "P0059",
+    "text": "4. Bài tập về nhà (đối với phổ thông) và kết thúc bài học"
+  },
+  {
+    "id": "P0060",
+    "text": "- Khối lượng bài tập và nhiệm vụ giao cho học sinh hợp lý chưa."
+  },
+  {
+    "id": "P0061",
+    "text": "- Phương pháp hướng dẫn bài về nhà."
+  },
+  {
+    "id": "P0062",
+    "text": "- Không khí tổ chức lớp học phút cuối."
+  },
+  {
+    "id": "P0063",
+    "text": "III.\tKết luận"
+  },
+  {
+    "id": "P0064",
+    "text": "- Ưu và nhược điểm chính"
+  },
+  {
+    "id": "P0065",
+    "text": "- Thành công của bài dạy"
+  },
+  {
+    "id": "P0066",
+    "text": "- Bài học kinh nghiệm"
+  },
+  {
+    "id": "P0067",
+    "text": "IV.\tCác bước rút kinh nghiệm dự giờ"
+  },
+  {
+    "id": "P0068",
+    "text": "Công việc này thực hiện ngay sau mỗi giờ dạy (không để có nhiều giờ mới tổ chức rút kinh nghiệm), mời giáo viên/sinh viên thực tập (người dạy), hoặc giảng viên sư phạm, tất cả sinh viên có dự giờ cùng rút kinh nghiệm."
+  },
+  {
+    "id": "P0069",
+    "text": "Các bước được tiến hành như sau:"
+  },
+  {
+    "id": "P0070",
+    "text": "1.\tNgười dạy trình bày lại mục tiêu, yêu cầu cần đạt, công tác chuẩn bị, thuận lợi và khó khăn của bản thân khi soạn và khi dạy; tự nhận xét ưu, khuyết điểm bài dạy, nguyên nhân thành công hay thất bại và những phương hướng cải tiến để dạy tốt trong các giờ tiếp theo; sơ bộ tự đánh giá kết quả."
+  },
+  {
+    "id": "P0071",
+    "text": "2.\tSinh viên dựa vào tư liệu đã ghi chép được trong quá trình dự giờ phát biểu ý kiến từng phần, nhận xét ưu, khuyết điểm về nội dung và phương pháp giảng dạy, góp ý kiến để khắc phục và cải tiến."
+  },
+  {
+    "id": "P0072",
+    "text": "3. Giáo viên hướng dẫn nhận xét quá trình chuẩn bị bài, tiến trình dạy học của sinh viên đứng lớp, ưu điểm và hạn chế của tiết dạy, những điều cần lưu ý rút kinh nghiệm. Giáo viên hoặc nhóm trưởng tổng kết các ý kiến góp ý, nêu những kết luận, khái quát ưu nhược điểm của giờ dạy, rút ra bài học kinh nghiệm. Sinh viên ghi vào sổ nhật ký thực tập những kết luận đó. (Đối với Ngành Giáo dục Mầm non, đối chiếu các yêu cầu trong phiếu đánh giá tiết dạy theo mẫu của Vụ Giáo dục Mầm non đã ban hành để tổ chức rút kinh nghiệm giờ dạy)."
+  },
+  {
+    "id": "P0073",
+    "text": "4. Giảng viên tham gia dự giờ nhận xét và góp ý giờ dạy. Giảng viên đánh giá tiết dạy (bằng điểm số) và gửi cho giáo viên hướng dẫn sinh viên để tham khảo."
+  },
+  {
+    "id": "P0074",
+    "text": "Phụ lục 3\nHƯỚNG DẪN DỰ GIỜ SINH HOẠT CHỦ NHIỆM LỚP/QUẢN LÝ NHÓM TRẺ"
+  },
+  {
+    "id": "P0075",
+    "text": "Cơ sở thực tập: ……………………………………………………………………………………… Lớp:"
+  },
+  {
+    "id": "P0076",
+    "text": "Năm học:"
+  },
+  {
+    "id": "P0077",
+    "text": "Giáo viên hướng dẫn chủ nhiệm lớp/quản lý nhóm trẻ:"
+  },
+  {
+    "id": "P0078",
+    "text": "Tiết: ……………… ngày ……… tháng ……… năm ………"
+  },
+  {
+    "id": "P0079",
+    "text": "Họ tên sinh viên dự giờ:"
+  },
+  {
+    "id": "P0080",
+    "text": "Họ tên GV hướng dẫn TTSP đã dự:"
+  },
+  {
+    "id": "P0081",
+    "text": "Số giờ sinh viên dự và làm công tác chủ nhiệm lớp/quản lý nhóm trẻ:"
+  },
+  {
+    "id": "P0082",
+    "text": "NỘI DUNG GHI BIÊN BẢN VÀ RÚT KINH NGHIỆM DỰ GIỜ"
+  },
+  {
+    "id": "P0083",
+    "text": "1.\tCông việc chuẩn bị của giáo viên"
+  },
+  {
+    "id": "P0084",
+    "text": "Kế hoạch giờ sinh hoạt lớp và các điều kiện cần cho tổ chức các hoạt động trong giờ sinh hoạt lớp."
+  },
+  {
+    "id": "P0085",
+    "text": "2.\tQuá trình lên lớp"
+  },
+  {
+    "id": "P0086",
+    "text": "- Vận dụng các biện pháp quan sát để nhận xét rút kinh nghiệm, phương pháp giáo dục phối hợp các lực lượng xã hội."
+  },
+  {
+    "id": "P0087",
+    "text": "- Gần gũi, thương yêu, nắm được tình hình của đối tượng giáo dục."
+  },
+  {
+    "id": "P0088",
+    "text": "- Xử lý các tình huống giáo dục, ứng dụng các phương pháp xã hội học, thử nghiệm."
+  },
+  {
+    "id": "P0089",
+    "text": "- Nội dung giáo dục trí tuệ, lao động hướng nghiệp, giáo dục thể chất và thẩm mỹ."
+  },
+  {
+    "id": "P0090",
+    "text": "- Phương pháp, nội dung công tác tổ chức sinh hoạt."
+  },
+  {
+    "id": "P0091",
+    "text": "- Xây dựng nề nếp lớp, xây dựng tập thể và giáo dục học sinh cá biệt."
+  },
+  {
+    "id": "P0092",
+    "text": "3.\tKết quả việc tổ chức thực hiện công việc (điều khiển buổi sinh hoạt tập thể, khả năng quản lý một nhóm học sinh/nhóm trẻ, công tác giáo dục cá biệt, xây dựng tập thể lớp...)"
+  },
+  {
+    "id": "P0093",
+    "text": "- Tinh thần thái độ, ý thức trách nhiệm, tác dụng đối với lớp."
+  },
+  {
+    "id": "P0094",
+    "text": "- Kết quả cụ thể đạt được."
+  },
+  {
+    "id": "P0095",
+    "text": "Dựa vào những nội dung trên, sinh viên tự nhận xét, đánh giá kết quả dự giờ của giáo viên trường thực tập và giờ tập làm chủ nhiệm/quản lý nhóm trẻ của sinh viên. Nhóm sinh viên cùng tham gia dự giờ tổ chức thảo luận sau mỗi tiết dự; người chủ trì rút kinh nghiệm nêu khái quát ưu nhược điểm, thành công của giờ chủ nhiệm quản lý lớp/quản lý nhóm trẻ dưới sự hướng dẫn của giáo viên trường thực tập."
+  },
+  {
+    "id": "P0096",
+    "text": "Phụ lục 4\nPHIẾU DỰ GIỜ"
+  },
+  {
+    "id": "P0097",
+    "text": "Tên bài dạy:"
+  },
+  {
+    "id": "P0098",
+    "text": "Giáo viên (SV thực tập) lên lớp: ………………………………………………………… Bộ môn:"
+  },
+  {
+    "id": "P0099",
+    "text": "Tiết (theo chương trình): ……………………………………………………… Tại lớp:"
+  },
+  {
+    "id": "P0100",
+    "text": "Phòng học: ……………………………………………………… Ngày:"
+  },
+  {
+    "id": "T0101",
+    "rows": [
+      [
+        "Thời gian",
+        "Phần ghi chép tiến trình hoạt động",
+        "Nhận xét, đánh giá, góp ý\n(theo tiến trình dạy học)"
+      ],
+      [
+        "",
+        "Hoạt động của giáo viên",
+        "Hoạt động của học sinh/trẻ mầm non",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0102",
+    "text": "(*) Tuỳ loại tiết dự giờ (thực tập giảng dạy, thực tập chủ nhiệm) sinh viên linh hoạt điều chỉnh thông tin cho phù hợp."
+  },
+  {
+    "id": "P0103",
+    "text": "- Tổng kết tiết dự giờ:"
+  },
+  {
+    "id": "P0104",
+    "text": "- Những ưu và nhược điểm:"
+  },
+  {
+    "id": "P0105",
+    "text": "- Những bài học kinh nghiệm:"
+  },
+  {
+    "id": "P0106",
+    "text": "NHẬN XÉT CỦA GVHD\tSINH VIÊN THỰC TẬP\n\t\t(Ký tên)"
+  },
+  {
+    "id": "P0107",
+    "text": "Phụ lục 5\nMẪU THU HOẠCH TÌM HIỂU THỰC TẾ GIÁO DỤC"
+  },
+  {
+    "id": "P0108",
+    "text": "Họ tên sinh viên: …………………………………… Ngành thực tập: ………………"
+  },
+  {
+    "id": "P0109",
+    "text": "Tên trường thực tập: ……………………………………………………………...…….."
+  },
+  {
+    "id": "P0110",
+    "text": "I.\tPhương pháp tìm hiểu"
+  },
+  {
+    "id": "P0111",
+    "text": "1. Nghe báo cáo: ……………………………………………………………………"
+  },
+  {
+    "id": "P0112",
+    "text": "Số lượng: ……… của ……………………………………………………………….…"
+  },
+  {
+    "id": "P0113",
+    "text": "2. Nghiên cứu hồ sơ, tài liệu: …………………………………………………………. Số lượng, loại gì (ghi rõ loại hồ sơ, tài liệu): …………………………………...………"
+  },
+  {
+    "id": "P0114",
+    "text": "3. Điều tra thực tế:"
+  },
+  {
+    "id": "P0115",
+    "text": "4. Tiếp cận và trao đổi với phụ huynh học sinh/trẻ mầm non lớp ……………Số lần: …"
+  },
+  {
+    "id": "P0116",
+    "text": "5. Các phương pháp khác (qua các phương tiện truyền thông, phỏng vấn,…): ……… ………………………………………………………………………………………...…"
+  },
+  {
+    "id": "P0117",
+    "text": "II.\tKết quả tìm hiểu"
+  },
+  {
+    "id": "P0118",
+    "text": "1.\tTình hình giáo dục ở địa phương"
+  },
+  {
+    "id": "P0119",
+    "text": "2.\tĐặc điểm tình hình nhà trường"
+  },
+  {
+    "id": "P0120",
+    "text": "- Đội ngũ giáo viên"
+  },
+  {
+    "id": "P0121",
+    "text": "- Đội ngũ cán bộ viên chức, người lao động khác"
+  },
+  {
+    "id": "P0122",
+    "text": "- Trình độ chuyên môn của giáo viên, cán bộ viên chức, người lao động"
+  },
+  {
+    "id": "P0123",
+    "text": "- Kinh nghiệm, số năm trong nghề của giáo viên, cán bộ viên chức, người lao động"
+  },
+  {
+    "id": "P0124",
+    "text": "- Cơ sở vật chất"
+  },
+  {
+    "id": "P0125",
+    "text": "- Trang thiết bị dạy học"
+  },
+  {
+    "id": "P0126",
+    "text": "- Số lượng học sinh, số lớp"
+  },
+  {
+    "id": "P0127",
+    "text": "- Thành tích, kết quả học tập của học sinh"
+  },
+  {
+    "id": "P0128",
+    "text": "- Thành tích, kết quả tham gia các hoạt động xã hội, từ thiện, tham gia các phong trào thi đua, các cuộc vận động của ngành giáo dục"
+  },
+  {
+    "id": "P0129",
+    "text": "3.\tCơ cấu tổ chức của nhà trường (Ban Giám hiệu, các tổ chuyên môn, Ban chấp hành các đoàn thể, Ban đại diện cha mẹ học sinh,...)"
+  },
+  {
+    "id": "P0130",
+    "text": "4. \tNhiệm vụ của giáo viên nhà trường"
+  },
+  {
+    "id": "P0131",
+    "text": "5. \tCác loại hồ sơ của học sinh"
+  },
+  {
+    "id": "P0132",
+    "text": "6. \tCách đánh giá, xếp loại học sinh"
+  },
+  {
+    "id": "P0133",
+    "text": "7. \tCác hoạt động giáo dục trong nhà trường"
+  },
+  {
+    "id": "P0134",
+    "text": "8. \tĐiều lệ trường học; các chế độ, chính sách đối với ngành giáo dục và đối với giáo viên"
+  },
+  {
+    "id": "P0135",
+    "text": "III. Những bài học sư phạm sinh viên thu nhận được"
+  },
+  {
+    "id": "P0136",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0137",
+    "text": "BCĐ NHẬN XÉT VÀ GHI ĐIỂM\tSINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0138",
+    "text": "Phụ lục 6\nMẪU KẾ HOẠCH CÔNG TÁC THỰC TẬP GIẢNG DẠY"
+  },
+  {
+    "id": "P0139",
+    "text": "Họ tên sinh viên: ……………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0140",
+    "text": "Tên trường thực tập: ……………………………………………"
+  },
+  {
+    "id": "P0141",
+    "text": "Giáo viên hướng dẫn:"
+  },
+  {
+    "id": "T0142",
+    "rows": [
+      [
+        "Tuần",
+        "Nội dung thực tập giảng dạy",
+        "Dự kiến kết quả",
+        "Ghi chú"
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0143",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0144",
+    "text": "GIÁO VIÊN HƯỚNG DẪN\tSINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0145",
+    "text": "Phụ lục 7\nMẪU KẾ HOẠCH CÔNG TÁC CHỦ NHIỆM LỚP/QUẢN LÝ NHÓM TRẺ Năm học 20............ - 20............"
+  },
+  {
+    "id": "P0146",
+    "text": "Họ tên sinh viên: ……………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0147",
+    "text": "Tên trường thực tập:"
+  },
+  {
+    "id": "P0148",
+    "text": "Giáo viên hướng dẫn:"
+  },
+  {
+    "id": "P0149",
+    "text": "Công tác được giao:"
+  },
+  {
+    "id": "P0150",
+    "text": "Phụ trách tổ: ……………………………………………………………… Lớp:"
+  },
+  {
+    "id": "P0151",
+    "text": "Phụ trách mặt hoạt động sau đây của lớp:"
+  },
+  {
+    "id": "P0152",
+    "text": "I.\tNhững yêu cầu của trường (về mặt công tác chủ nhiệm được giao)"
+  },
+  {
+    "id": "P0153",
+    "text": "II.\tTình hình đặc điểm của tổ, lớp chủ nhiệm/nhóm trẻ"
+  },
+  {
+    "id": "P0154",
+    "text": "-\tSố học sinh/Số trẻ: ................ Nam: ................ Nữ: ................"
+  },
+  {
+    "id": "P0155",
+    "text": "Nếu thực tập ở trường tiểu học, trung học có sở, trung học phổ thông thì ghi rõ:"
+  },
+  {
+    "id": "P0156",
+    "text": "+ Số lượng Đoàn viên/Đội viên:"
+  },
+  {
+    "id": "P0157",
+    "text": "+\tCán bộ lớp (trường phổ thông):"
+  },
+  {
+    "id": "P0158",
+    "text": "+\tCán bộ Đoàn/Đội viên (trường phổ thông):"
+  },
+  {
+    "id": "P0159",
+    "text": "-\tMặt mạnh:"
+  },
+  {
+    "id": "P0160",
+    "text": "-\tMặt yếu:"
+  },
+  {
+    "id": "P0161",
+    "text": "-\tThuận lợi:"
+  },
+  {
+    "id": "P0162",
+    "text": "-\tKhó khăn:"
+  },
+  {
+    "id": "P0163",
+    "text": "III. Phương hướng chung của tổ, lớp"
+  },
+  {
+    "id": "P0164",
+    "text": "-\tYêu cầu, chỉ tiêu cần đạt:"
+  },
+  {
+    "id": "P0165",
+    "text": "-\tTrọng tâm công việc:"
+  },
+  {
+    "id": "P0166",
+    "text": "IV. Nội dung kế hoạch"
+  },
+  {
+    "id": "T0167",
+    "rows": [
+      [
+        "Tuần",
+        "Nội dung công việc",
+        "Biện pháp thực hiện",
+        "Dự kiến kết quả",
+        "Ghi chú"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0168",
+    "text": "(*) Lưu ý: Sinh viên cần chủ động xây dựng và tổ chức một số hoạt động giáo dục, hỗ trợ học sinh/nhóm trẻ nhằm thể hiện vai trò của một giáo viên thực tập công tác chủ nhiệm lớp/quản lý nhóm trẻ."
+  },
+  {
+    "id": "P0169",
+    "text": "………, ngày … tháng … năm ……"
+  },
+  {
+    "id": "P0170",
+    "text": "GIÁO VIÊN HƯỚNG DẪN CHỦ NHIỆM\tSINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0171",
+    "text": "Phụ lục 8\nPHIẾU ĐÁNH GIÁ KẾT QUẢ TÌM HIỂU THỰC TẾ GIÁO DỤC"
+  },
+  {
+    "id": "P0172",
+    "text": "Họ tên sinh viên: ……………………………………………………………… Ngành thực tập: ……………………………………"
+  },
+  {
+    "id": "T0173",
+    "rows": [
+      [
+        "TT",
+        "Các tiêu chí đánh giá",
+        "Điểm (100)",
+        "Điểm của GVHD"
+      ],
+      [
+        "1.",
+        "Ý thức tham gia tìm hiểu thực tế giáo dục, tìm hiểu tình hình thực tế trường thực tập.",
+        "20",
+        ""
+      ],
+      [
+        "2.",
+        "Phương pháp tiến hành tìm hiểu thực tế giáo dục",
+        "20",
+        ""
+      ],
+      [
+        "3.",
+        "Kết quả của bài thu hoạch tìm hiểu thực tế giáo dục trường thực tập",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Đặc điểm tình hình giáo dục của địa phương và Nhà trường",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Cơ cấu tổ chức của nhà trường; nhiệm vụ của giáo viên",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Các loại hồ sơ học sinh/trẻ mầm non",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Các hoạt động giáo dục trong nhà trường",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Cách đánh giá, xếp loại học sinh/trẻ mầm non",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Bài học rút ra từ thực tế",
+        "10",
+        ""
+      ],
+      [
+        "",
+        "Tổng cộng",
+        "100",
+        ""
+      ],
+      [
+        "",
+        "Quy ra theo thang điểm 10",
+        "10",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0174",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0175",
+    "text": "TM. BAN CHỈ ĐẠO\n\t\t(Ký và  ghi rõ họ tên)"
+  },
+  {
+    "id": "P0176",
+    "text": "Phụ lục 9\nTỔNG HỢP PHIẾU ĐÁNH GIÁ THỰC TẬP GIẢNG DẠY (đợt TTSP1)"
+  },
+  {
+    "id": "P0177",
+    "text": "Họ tên sinh viên ……………………………………………………………………………………………………………………  Ngành: …………………………………………………………"
+  },
+  {
+    "id": "T0178",
+    "rows": [
+      [
+        "TT",
+        "Các tiêu chí đánh giá",
+        "Điểm (100)",
+        "Điểm sinh viên đạt được",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        ""
+      ],
+      [
+        "A",
+        "Đánh giá bài thu hoạch",
+        "30",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "1",
+        "Kết quả tìm hiểu công việc giảng dạy của người giáo viên, của tổ bộ môn",
+        "10",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "2",
+        "Kết quả tìm hiểu về chương trình, sách giáo khoa môn học-ngành học",
+        "10",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "3",
+        "Kết quả tìm hiểu về hồ sơ môn học",
+        "10",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "B",
+        "Đánh giá kết quả các tiết dự giờ",
+        "70",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1.",
+        "Thái độ, tác phong, chuẩn bị trước lúc dự giờ",
+        "35",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "- Có ý thức, trách nhiệm: Đi-về đúng giờ quy định, trang phục, tác phong nghiêm túc, thực hiện tốt các nội quy của trường thực tập bao gồm cả trong lúc dự giờ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "- Biên soạn đề cương bài sẽ dự tỉ mỉ, đầy đủ, phác thảo các bước lên lớp và dự kiến các tình huống có thể xảy ra. Đề cương được soạn trên giấy A4 và trình giáo viên hướng dẫn trước lúc vào dự giờ.",
+        "25",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2",
+        "Ghi chép trong lúc dự giờ",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "- Ghi chép đầy đủ các nội dung và các bước lên lớp của giáo viên trong phiếu dự giờ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "- Có ghi chú các nhận xét trong quá trình dự giờ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "Rút kinh nghiệm",
+        "15",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Phát biểu được các ưu và nhược điểm của tiết dự giờ, các bài học cần rút ra sau tiết dự giờ.",
+        "15",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Tổng cộng",
+        "100",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Quy ra theo thang điểm 10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0179",
+    "text": "……………… Ngày ……… tháng ……… năm ………\n\tTỔ TRƯỞNG CHUYÊN MÔN\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0180",
+    "text": "Phụ lục 10\nPHIẾU ĐÁNH GIÁ THỰC TẬP CHỦ NHIỆM LỚP/QUẢN LÝ NHÓM TRẺ (Đợt TTSP1)"
+  },
+  {
+    "id": "P0181",
+    "text": "Họ tên sinh viên  (SV): ………………………………………………………………… Ngành: …………………………………………"
+  },
+  {
+    "id": "T0182",
+    "rows": [
+      [
+        "TT",
+        "Các tiêu chí đánh giá",
+        "Điểm (100)",
+        "Điểm SV đạt được",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        ""
+      ],
+      [
+        "A",
+        "Đánh giá bài thu hoạch",
+        "30",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "1",
+        "Kết quả tìm hiểu về nội dung, kế hoạch thực hiện công tác chủ nhiệm lớp/quản lý nhóm trẻ (QLNT)",
+        "15",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "2",
+        "Kết quả tìm hiểu về hồ sơ công tác chủ nhiệm lớp/QLNT",
+        "15",
+        "x",
+        "x",
+        "x",
+        ""
+      ],
+      [
+        "B",
+        "Đánh giá các tiết dự giờ sinh hoạt chủ nhiệm/QLNT",
+        "70",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1",
+        "Ý thức, trách nhiệm, thái độ, tác phong, chuẩn bị lúc tìm hiểu công tác chủ nhiệm lớp/QLNT:",
+        "35",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Đi - về đúng giờ quy định, dự đầy đủ các buổi sinh hoạt với giáo viên chủ nhiệm lớp, ăn mặc-tác phong nghiêm túc, thực hiện tốt các nội quy của trường thực tập trong suốt thời gian thực tập.",
+        "10",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Biên soạn đề cương các công tác sẽ dự đầy đủ, tỉ mỉ, phác thảo các công tác sẽ thực hiện và dự kiến các tình huống có thể xảy ra. Đề cương được soạn trên giấy A4 và  trình giáo viên hướng dẫn trước lúc vào dự sinh hoạt lớp/QLNT.",
+        "25",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2",
+        "Ghi chép trong dự sinh hoạt lớp chủ nhiệm/QLNT:",
+        "20",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Ghi chép đầy đủ các bước tiến hành của giáo viên chủ nhiệm.",
+        "10",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Có ghi chú các nhận xét trong quá trình dự sinh hoạt chủ nhiệm lớp/QLNT",
+        "10",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3",
+        "Rút kinh nghiệm:",
+        "15",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Phát biểu được các ưu điểm tổ chức sinh hoạt lớp/ QLNT, các bài học cần rút ra. Sinh viên phải phát biểu lúc họp rút kinh nghiệm sau buổi dự sinh hoạt.",
+        "15",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "CỘNG",
+        "100",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "Quy ra theo thang điểm 10",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0183",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0184",
+    "text": "TỔ TRƯỞNG CHỦ NHIỆM\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0185",
+    "text": "Phụ lục 11."
+  },
+  {
+    "id": "P0186",
+    "text": "PHIẾU NHẬN XÉT, ĐÁNH GIÁ KẾT QUẢ THỰC TẬP SƯ PHẠM 1"
+  },
+  {
+    "id": "P0187",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0188",
+    "text": "PHIẾU NHẬN XÉT, ĐÁNH GIÁ KẾT QUẢ THỰC TẬP SƯ PHẠM 1\nNĂM HỌC 20………… - 20…………"
+  },
+  {
+    "id": "P0189",
+    "text": "Họ tên sinh viên: …………………………………………………………………………… Mã sinh viên:"
+  },
+  {
+    "id": "P0190",
+    "text": "Ngày sinh: ………/………/………… Ngành học:"
+  },
+  {
+    "id": "P0191",
+    "text": "Nhận xét và kết quả thực tập:"
+  },
+  {
+    "id": "P0192",
+    "text": "I.\tVề công tác thực tập giảng dạy: (Tinh thần, thái độ, tác phong; hiệu quả thực hiện các công việc có liên quan)"
+  },
+  {
+    "id": "P0193",
+    "text": "Kết quả điểm:"
+  },
+  {
+    "id": "P0194",
+    "text": "II.\t Về công tác thực tập chủ nhiệm lớp/Quản lý nhóm trẻ: (Tinh thần, thái độ, tác phong; hiệu quả thực hiện các công việc có liên quan):"
+  },
+  {
+    "id": "P0195",
+    "text": "Kết quả điểm:"
+  },
+  {
+    "id": "P0196",
+    "text": "III. Nhận xét chung: (Ưu điểm, khuyết điểm)"
+  },
+  {
+    "id": "P0197",
+    "text": "Điểm trung bình chung:\t......................"
+  },
+  {
+    "id": "P0198",
+    "text": "Điểm thưởng/phạt:\t......................"
+  },
+  {
+    "id": "P0199",
+    "text": "Kết quả điểm cả đợt:"
+  },
+  {
+    "id": "P0200",
+    "text": "………………, ngày ………… tháng ………… năm …………\n\t\tTRƯỞNG BAN CHỈ ĐẠO \n\t\t(Ký tên và đóng dấu)"
+  },
+  {
+    "id": "P0201",
+    "text": "Phụ lục 12. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 1"
+  },
+  {
+    "id": "P0202",
+    "text": "(Dành cho trường hướng dẫn thực tập sư phạm)"
+  },
+  {
+    "id": "P0203",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0204",
+    "text": "BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 1\nNĂM HỌC 20…………- 20…………"
+  },
+  {
+    "id": "P0205",
+    "text": "PHẦN I. TÌNH HÌNH CHUNG"
+  },
+  {
+    "id": "P0206",
+    "text": "1. Số lượng"
+  },
+  {
+    "id": "P0207",
+    "text": "a. Sinh viên có mặt thực tập: Tổng số: .............. , trong đó: nam ............. nữ ..............,"
+  },
+  {
+    "id": "P0208",
+    "text": "Số vắng, số bỏ nửa chừng, đến muộn (lý do, ghi rõ họ tên sinh viên)."
+  },
+  {
+    "id": "P0209",
+    "text": "b. Ban chỉ đạo và cán bộ hướng dẫn: (họ tên, nhiệm vụ được giao)."
+  },
+  {
+    "id": "P0210",
+    "text": "2. Thời gian thực tập"
+  },
+  {
+    "id": "P0211",
+    "text": "Có tiến hành theo đúng hướng dẫn của Trường Đại học Sư phạm, Đại học Huế không? (Nếu thay đổi thì nêu lý do)."
+  },
+  {
+    "id": "P0212",
+    "text": "3. Đặc điểm tình hình"
+  },
+  {
+    "id": "P0213",
+    "text": "Đặc điểm tình hình của nhà trường, của địa phương nơi trường đóng (những thuận lợi, khó khăn chính mà trường thực tập gặp phải, những việc làm tốt để tạo điều kiện thuận lợi cho đoàn hoạt động)."
+  },
+  {
+    "id": "P0214",
+    "text": "PHẦN II. ĐÁNH GIÁ VIỆC THỰC HIỆN KẾ HOẠCH CỦA TRƯỜNG THỰC TẬP"
+  },
+  {
+    "id": "P0215",
+    "text": "1. Chuẩn bị, thâm nhập, tìm hiểu thực tế trường thực tập, địa phương, học sinh …"
+  },
+  {
+    "id": "P0216",
+    "text": "2. Kế hoạch tiến hành, phương pháp thực hiện, kết quả của việc chấp hành quy chế của Bộ Giáo dục và Đào tạo, Quy định của Trường Đại học Sư phạm, Đại học Huế."
+  },
+  {
+    "id": "P0217",
+    "text": "3. Ưu khuyết điểm; những điểm bất thường (nếu có), cách giải quyết của đoàn."
+  },
+  {
+    "id": "P0218",
+    "text": "PHẦN III. ĐÁNH GIÁ VỀ KẾT QUẢ THỰC TẬP SƯ PHẠM"
+  },
+  {
+    "id": "P0219",
+    "text": "1. Ý thức tìm hiểu tình hình giáo dục ở địa phương và các hoạt động của nhà trường."
+  },
+  {
+    "id": "P0220",
+    "text": "2. Thực tập giảng dạy: đánh giá trên các mặt"
+  },
+  {
+    "id": "P0221",
+    "text": "Công tác chuẩn bị; Hoạt động dự giờ; Tham gia góp ý kiến, rút kinh nghiệm."
+  },
+  {
+    "id": "P0222",
+    "text": "3. Thực tập chủ nhiệm/quản lý nhóm trẻ: đánh giá trên các mặt"
+  },
+  {
+    "id": "P0223",
+    "text": "Công tác chuẩn bị; Hoạt động dự giờ; Tham gia góp ý kiến, rút kinh nghiệm."
+  },
+  {
+    "id": "P0224",
+    "text": "4. Ưu điểm/Tồn tại"
+  },
+  {
+    "id": "P0225",
+    "text": "5. Kết quả Thực tập sư phạm 1 (theo mẫu Phụ lục 13)"
+  },
+  {
+    "id": "P0226",
+    "text": "PHẦN IV. NHẬN XÉT VÀ ĐỀ NGHỊ"
+  },
+  {
+    "id": "P0227",
+    "text": "1. Nội dung đào tạo của các ngành chuyên môn: Tốt, chưa tốt về mặt nào? Kèm theo nhận xét của từng bộ môn."
+  },
+  {
+    "id": "P0228",
+    "text": "2. Phương thức đào tạo: về nội dung, về chế độ chính sách."
+  },
+  {
+    "id": "P0229",
+    "text": "3. Ban Chỉ đạo trường thực tập cho ý kiến về:"
+  },
+  {
+    "id": "P0230",
+    "text": "Cơ cấu sinh viên phân bổ về trường thực tập;"
+  },
+  {
+    "id": "P0231",
+    "text": "Các văn bản triển khai: Quy định về thực tập sư phạm, kế hoạch thực hiện, đánh giá kết quả thực tập của sinh viên,…;"
+  },
+  {
+    "id": "P0232",
+    "text": "Những vấn đề khác (nếu có)."
+  },
+  {
+    "id": "P0233",
+    "text": "PHẦN V. ĐỀ NGHỊ KHEN THƯỞNG, KỶ LUẬT"
+  },
+  {
+    "id": "P0234",
+    "text": "Danh sách đề nghị khen thưởng sinh viên thực tập. Nếu có trường hợp đề nghị kỷ luật phải có hồ sơ kèm theo."
+  },
+  {
+    "id": "P0235",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0236",
+    "text": "TRƯỞNG BAN CHỈ ĐẠO\n\t\t(Ký tên và đóng dấu)"
+  },
+  {
+    "id": "P0237",
+    "text": "Ghi chú: Báo cáo viết thành 02 bản: 01 bản gửi về Trường Đại học Sư phạm, Đại học Huế, 01 bản lưu tại trường thực tập."
+  },
+  {
+    "id": "P0238",
+    "text": "Phụ lục 13. KẾT QUẢ THỰC TẬP SƯ PHẠM 1"
+  },
+  {
+    "id": "P0239",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0240",
+    "text": "BẢNG TỔNG HỢP KẾT QUẢ THỰC TẬP SƯ PHẠM 1\ncủa sinh viên Trường Đại học Sư phạm, Đại học Huế\nNăm học 20…………- 20…………\nTại Trường ………………………………………………………"
+  },
+  {
+    "id": "T0241",
+    "rows": [
+      [
+        "TT",
+        "Mã SV",
+        "Họ và  tên SV",
+        "Ngày  sinh",
+        "Ngành",
+        "Điểm đánh giá",
+        "Điểm\nthưởng (+)\n/phạt (-)",
+        "Kết quả TTSP \n(*)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "TTGD",
+        "TTCN/QLNT",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        ".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0242",
+    "text": "Tổng kết danh sách này có ................ sinh viên."
+  },
+  {
+    "id": "P0243",
+    "text": "(*) GHI CHÚ: điểm kết quả chung được làm tròn đến 1 chữ số thập phận (ví dụ: 7,1; 8,2; 9,3...)"
+  },
+  {
+    "id": "P0244",
+    "text": "………………, ngày ………… tháng ………… năm …………\n\t\tTRƯỞNG BAN CHỈ ĐẠO \n\t\t(Ký tên và đóng dấu)"
+  },
+  {
+    "id": "P0245",
+    "text": "Phụ lục 14"
+  },
+  {
+    "id": "P0246",
+    "text": "PHIẾU ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY"
+  },
+  {
+    "id": "P0247",
+    "text": "(Sử dụng cho tiết dạy học trên lớp trực tiếp hoặc trực tuyến)\n (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)"
+  },
+  {
+    "id": "P0248",
+    "text": "Họ tên sinh viên: ………………………………………………………"
+  },
+  {
+    "id": "P0249",
+    "text": "Tên trường thực tập: ………………………………………………………………"
+  },
+  {
+    "id": "T0250",
+    "rows": [
+      [
+        "Tiêu chí đánh giá",
+        "Điểm",
+        "Điểm ĐG"
+      ],
+      [
+        "I. Kế hoạch tổ chức hoạt động (Kế hoạch bài dạy)",
+        "40",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của tiến trình tổ chức hoạt động với mục tiêu, nội dung và phương pháp dạy học được sử dụng.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ rõ ràng của mục tiêu, nội dung, kĩ thuật tổ chức và kết quả mong đợi của mỗi hoạt động chăm sóc/giáo dục trẻ.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của thiết bị, phương tiện kĩ thuật, đồ dùng, đồ chơi được sử dụng để tổ chức hoạt động.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ hợp lý của phương án đánh giá trong quá trình tổ chức hoạt động (bao gồm cả trước, trong và sau khi tổ chức hoạt động).",
+        "10",
+        ""
+      ],
+      [
+        "II. Tổ chức hoạt động chăm sóc/giáo dục trẻ",
+        "40",
+        ""
+      ],
+      [
+        "Trình bày được nội dung chăm sóc/giáo dục trẻ chính xác, đầy đủ, có tính hệ thống, có liên hệ với thực tiễn.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ sinh động, hấp dẫn trẻ của phương pháp và hình thức tổ chức hoạt động chăm sóc/giáo dục trẻ.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ phù hợp, hiệu quả của các biện pháp hỗ trợ và khuyến khích trẻ hợp tác, giúp đỡ nhau khi thực hiện nhiệm vụ.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ hiệu quả hoạt động của giáo viên trong việc tổng hợp, phân tích, đánh giá kết quả hoạt động của trẻ.",
+        "10",
+        ""
+      ],
+      [
+        "III. Hoạt động của trẻ",
+        "20",
+        ""
+      ],
+      [
+        "Khả năng tiếp nhận và sẵn sàng thực hiện nhiệm vụ của tất cả trẻ trong lớp.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ tích cực, chủ động hợp tác của trẻ trong việc thực hiện các nhiệm vụ.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ sáng tạo của trẻ trong quá trình thực hiện nhiệm vụ.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ đúng đắn, chính xác, phù hợp của các kết quả thực hiện nhiệm vụ của trẻ.",
+        "5",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0251",
+    "text": "Phụ lục 15\nPHIẾU TỔNG HỢP ĐÁNH GIÁ CÁC TIẾT THỰC TẬP GIẢNG DẠY\n(Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)"
+  },
+  {
+    "id": "P0252",
+    "text": "Họ tên sinh viên: ………………………………………………………………………………………………………………….."
+  },
+  {
+    "id": "P0253",
+    "text": "Tên trường thực tập: …………………………………………………………………………………………………………"
+  },
+  {
+    "id": "T0254",
+    "rows": [
+      [
+        "TIÊU CHÍ ĐÁNH GIÁ",
+        "Điểm\n(100)",
+        "Đánh giá giờ dạy",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        ""
+      ],
+      [
+        "I. Kế hoạch bài dạy và tài nguyên dạy học",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của tiến trình tổ chức hoạt động với mục tiêu, nội dung và phương pháp dạy học được sử dụng.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ rõ ràng của mục tiêu, nội dung, kĩ thuật tổ chức và kết quả mong đợi của mỗi hoạt động chăm sóc/giáo dục trẻ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của thiết bị, phương tiện kĩ thuật, đồ dùng, đồ chơi được sử dụng để tổ chức hoạt động.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ hợp lý của phương án đánh giá trong quá trình tổ chức hoạt động (bao gồm cả trước, trong và sau khi tổ chức hoạt động).",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "II. Tổ chức hoạt động chăm sóc/giáo dục trẻ",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Trình bày được nội dung chăm sóc/giáo dục trẻ chính xác, đầy đủ, có tính hệ thống, có liên hệ với thực tiễn.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ sinh động, hấp dẫn trẻ của phương pháp và hình thức tổ chức hoạt động chăm sóc/giáo dục trẻ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp, hiệu quả của các biện pháp hỗ trợ và khuyến khích trẻ hợp tác, giúp đỡ nhau khi thực hiện nhiệm vụ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ hiệu quả hoạt động của giáo viên trong việc tổng hợp, phân tích, đánh giá kết quả hoạt động của trẻ.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "III. Hoạt động của trẻ",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Khả năng tiếp nhận và sẵn sàng thực hiện nhiệm vụ của tất cả trẻ trong lớp.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ tích cực, chủ động, hợp tác của trẻ trong việc thực hiện các nhiệm vụ.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ sáng tạo của trẻ trong quá trình thực hiện nhiệm vụ.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ đúng đắn, chính xác, phù hợp của các kết quả thực hiện nhiệm vụ của trẻ.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tổng hợp",
+        "100",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Quy ra thang điểm 10",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0255",
+    "text": "Ghi chú:\t- Mỗi tiết dạy, giáo viên hướng dẫn đánh giá từng phần (theo thang điểm 100) và cho điểm tổng hợp tiết đó (theo thang điểm 10)"
+  },
+  {
+    "id": "P0256",
+    "text": "- Điểm tổng hợp cho điểm lẻ đến 01 chữ số thập phân (ví dụ: 7,2; 8,3; 9,4...)"
+  },
+  {
+    "id": "P0257",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0258",
+    "text": "TỔ TRƯỞNG\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0259",
+    "text": "Phụ lục 16"
+  },
+  {
+    "id": "P0260",
+    "text": "PHIẾU ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY"
+  },
+  {
+    "id": "P0261",
+    "text": "(Sử dụng cho tiết dạy học trên lớp trực tiếp hoặc trực tuyến)\n (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường tiểu học, THCS, THPT)"
+  },
+  {
+    "id": "P0262",
+    "text": "Họ tên sinh viên: …………………………………… Ngành thực tập: ……………"
+  },
+  {
+    "id": "P0263",
+    "text": "Tên trường thực tập: ………………………………………………………………"
+  },
+  {
+    "id": "T0264",
+    "rows": [
+      [
+        "Tiêu chí đánh giá",
+        "Điểm",
+        "Điểm đánh giá"
+      ],
+      [
+        "I. Kế hoạch bài dạy và tài nguyên dạy học",
+        "40",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của tiến trình dạy học với mục tiêu, nội dung và phương pháp dạy học được sử dụng.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ rõ ràng của mục tiêu, nội dung, kĩ thuật tổ chức và kết quả học tập cần đạt được của mỗi nhiệm vụ học tập.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của thiết bị dạy học và học liệu được sử dụng để tổ chức các hoạt động học của học sinh.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ hợp lý của phương án kiểm tra, đánh giá trong quá trình tổ chức hoạt động học của học sinh (bao gồm cả trước, trong và sau giờ học).",
+        "10",
+        ""
+      ],
+      [
+        "II. Tổ chức hoạt động học cho học sinh",
+        "40",
+        ""
+      ],
+      [
+        "Trình bày được nội dung bài học chính xác, đầy đủ, có tính hệ thống, có liên hệ với thực tiễn.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ sinh động, hấp dẫn học sinh của phương pháp và hình thức chuyển giao nhiệm vụ học tập.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ phù hợp, hiệu quả của các biện pháp hỗ trợ và khuyến khích học sinh hợp tác, giúp đỡ nhau khi thực hiện nhiệm vụ học tập.",
+        "10",
+        ""
+      ],
+      [
+        "Mức độ hiệu quả hoạt động của giáo viên trong việc tổng hợp, phân tích, đánh giá kết quả hoạt động và quá trình thảo luận của học sinh.",
+        "10",
+        ""
+      ],
+      [
+        "III. Hoạt động của học sinh",
+        "20",
+        ""
+      ],
+      [
+        "Khả năng tiếp nhận và sẵn sàng thực hiện nhiệm vụ học tập của tất cả học sinh trong lớp.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ tích cực, chủ động, sáng tạo, hợp tác của học sinh trong việc thực hiện các nhiệm vụ học tập.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ tham gia tích cực của học sinh trong trình bày, trao đổi, thảo luận về kết quả thực hiện nhiệm vụ học tập.",
+        "5",
+        ""
+      ],
+      [
+        "Mức độ đúng đắn, chính xác, phù hợp của các kết quả thực hiện nhiệm vụ học tập của học sinh.",
+        "5",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0265",
+    "text": "Phụ lục 17\nPHIẾU ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY\n(Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường tiểu học, THCS, THPT)"
+  },
+  {
+    "id": "P0266",
+    "text": "Họ tên sinh viên: ……………………………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0267",
+    "text": "Tên trường thực tập:"
+  },
+  {
+    "id": "T0268",
+    "rows": [
+      [
+        "TIÊU CHÍ ĐÁNH GIÁ",
+        "Điểm\n(100)",
+        "Đánh giá giờ dạy (*)",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        ""
+      ],
+      [
+        "I. Kế hoạch bài dạy và tài nguyên dạy học",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của tiến trình dạy học với mục tiêu, nội dung và phương pháp dạy học được sử dụng.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ rõ ràng của mục tiêu, nội dung, kĩ thuật tổ chức và kết quả học tập cần đạt được của mỗi nhiệm vụ học tập.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp của thiết bị dạy học và học liệu được sử dụng để tổ chức các hoạt động học của học sinh.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ hợp lý của phương án kiểm tra, đánh giá trong quá trình tổ chức hoạt động học của học sinh (bao gồm cả trước, trong và sau giờ học).",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "II. Tổ chức hoạt động học cho học sinh",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Trình bày được nội dung bài học chính xác, đầy đủ, có tính hệ thống, có liên hệ với thực tiễn.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ sinh động, hấp dẫn học sinh của phương pháp và hình thức chuyển giao nhiệm vụ học tập.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ phù hợp, hiệu quả của các biện pháp hỗ trợ và khuyến khích học sinh hợp tác, giúp đỡ nhau khi thực hiện nhiệm vụ học tập.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ hiệu quả hoạt động của giáo viên trong việc tổng hợp, phân tích, đánh giá kết quả hoạt động và quá trình thảo luận của học sinh.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "III. Hoạt động của học sinh",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Khả năng tiếp nhận và sẵn sàng thực hiện nhiệm vụ học tập của tất cả học sinh trong lớp.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ tích cực, chủ động, sáng tạo, hợp tác của học sinh trong việc thực hiện các nhiệm vụ học tập.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ tham gia tích cực của học sinh trong trình bày, trao đổi, thảo luận về kết quả thực hiện nhiệm vụ học tập.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Mức độ đúng đắn, chính xác, phù hợp của các kết quả thực hiện nhiệm vụ học tập của học sinh.",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tổng hợp",
+        "100",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Quy ra thang điểm 10",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0269",
+    "text": "Ghi chú:\t- Mỗi tiết dạy, giáo viên hướng dẫn đánh giá từng phần (theo thang điểm 100) và cho điểm tổng hợp tiết đó (theo thang điểm 10)"
+  },
+  {
+    "id": "P0270",
+    "text": "- Điểm tổng hợp cho điểm lẻ đến 01 chữ số thập phân (ví dụ: 7,2; 8,3; 9,4...)"
+  },
+  {
+    "id": "P0271",
+    "text": "(*) Khối Tiểu học sử dụng 9 cột điểm, THPT sử dụng 6 cột điểm"
+  },
+  {
+    "id": "P0272",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0273",
+    "text": "TỔ TRƯỞNG CHUYÊN MÔN\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0274",
+    "text": "Phụ lục 18\nPHIẾU ĐÁNH GIÁ CÔNG TÁC QUẢN LÝ NHÓM TRẺ\n(Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)"
+  },
+  {
+    "id": "P0275",
+    "text": "Họ tên sinh viên: ……………………………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0276",
+    "text": "Tên trường thực tập: …………………………………………………………… Lớp thực tập quản lý nhóm trẻ:"
+  },
+  {
+    "id": "T0277",
+    "rows": [
+      [
+        "TIÊU CHÍ ĐÁNH GIÁ",
+        "Điểm (100)",
+        "Kết quả điểm theo tuần",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        ""
+      ],
+      [
+        "I. Năng lực xây dựng kế hoạch, tổ chức, chỉ đạo",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1. Thể hiện được quá trình nghiên cứu, tìm hiểu tình hình của trường, của lớp, phân loại trẻ; xây dựng được kế hoạch, biện pháp thực hiện cụ thể, chi tiết, rõ ràng, hợp lý từng tuần, từng công việc của cá nhân phù hợp với đặc điểm của lớp.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2. Tổ chức được nhiều hình thức hoạt động (trực tiếp hoặc qua mạng) sôi nổi, phong phú, lôi cuốn để giáo dục trẻ. Sâu sát, kịp thời hướng dẫn trẻ điều chỉnh lời nói, hành vi, … của mình. Có khả năng giáo dục trẻ, tạo được chuyển biến rõ rệt. Thể hiện được ý thức hợp tác để hoàn thành nhiệm vụ.",
+        "25",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3. Tập hợp và phối hợp chặt chẽ với các lực lượng giáo dục trong và ngoài trường (giáo viên, phụ huynh, đoàn thể, xã hội ...).",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "II. Năng lực thực hiện chức năng, nghiệp vụ của người giáo viên",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Thể hiện sự am hiểu các quy chế, quy định về nghiệp vụ sư phạm; xác định và thể hiện được chức năng của giáo viên, thực hiện hồ sơ, sổ sách khác của giáo viên.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "III. Hiệu quả (trên cơ sở kết quả quản lý nhóm trẻ mà đánh giá từng sinh viên)",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1. Căn cứ kết quả và hiệu quả quản lý nhóm trẻ mà xác định điểm chung cho cả nhóm, từ đó căn cứ vào đóng góp của từng sinh viên mà giáo viên hướng dẫn xác định điểm cho từng sinh viên.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2. Căn cứ yêu cầu quản lý nhóm trẻ, ban chỉ đạo trường thực tập đánh giá điểm cả nhóm và từng sinh viên trong nhóm.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tổng hợp",
+        "100",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Quy ra thang điểm 10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0278",
+    "text": "Ghi chú:\t- Đánh giá theo từng sinh viên tham gia quản lý nhóm trẻ."
+  },
+  {
+    "id": "P0279",
+    "text": "- Đánh giá và ghi điểm theo từng tuần."
+  },
+  {
+    "id": "P0280",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0281",
+    "text": "TỔ TRƯỞNG\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0282",
+    "text": "Phụ lục 19\nPHIẾU TỔNG HỢP ĐÁNH GIÁ CÔNG TÁC THỰC TẬP CHỦ NHIỆM"
+  },
+  {
+    "id": "P0283",
+    "text": "(Đợt TTSP 2 - Dành cho sinh viên thực tập ở các trường tiểu học, THPT, THCS)"
+  },
+  {
+    "id": "P0284",
+    "text": "Họ tên sinh viên: ……………………………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0285",
+    "text": "Tên trường thực tập: …………………………………………………………… Lớp thực tập chủ nhiệm:"
+  },
+  {
+    "id": "T0286",
+    "rows": [
+      [
+        "TIÊU CHÍ ĐÁNH GIÁ",
+        "Điểm (100)",
+        "Kết quả điểm theo tuần",
+        "TBC"
+      ],
+      [
+        "",
+        "",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        ""
+      ],
+      [
+        "I. Năng lực xây dựng kế hoạch, tổ chức, chỉ đạo",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1. Thể hiện được quá trình nghiên cứu, tìm hiểu tình hình của trường, của lớp, phân loại HS; xây dựng được kế hoạch, biện pháp thực hiện cụ thể, chi tiết, rõ ràng, hợp lý từng tuần, từng công việc của cá nhân phù hợp với đặc điểm của lớp.",
+        "10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2. Tổ chức được nhiều hình thức hoạt động (trực tiếp hoặc qua mạng) sôi nổi, phong phú, lôi cuốn học sinh tham gia nhằm giáo dục các em. Thể hiện được khả năng bồi dưỡng đội ngũ học sinh cốt cán và phát huy được vai trò tự quản của học sinh. Sâu sát học sinh, kịp thời động viên, uốn nắn các hoạt động, các quan hệ trong lớp. Chứng tỏ được khả năng giáo dục học sinh yếu kém, cá biệt; tạo được chuyển biến rõ rệt ở người học. Thể hiện được ý thức hợp tác để hoàn thành nhiệm vụ.",
+        "25",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "3. Tập hợp và phối hợp chặt chẽ với các lực lượng giáo dục trong và  ngoài trường (giáo viên bộ môn, cha mẹ học sinh, đoàn thể, xã hội ...).",
+        "5",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "II. Năng lực thực hiện chức năng, nghiệp vụ của người giáo viên",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Thể hiện sự am hiểu các quy chế, quy định về nghiệp vụ sư phạm; xác định và thể hiện được chức năng của giáo viên bộ môn, của giáo viên chủ nhiệm lớp; vận dụng đúng cách cho điểm, xếp loại học lực, đạo đức, ghi sổ; thực hiện được hồ sơ, sổ sách khác của giáo viên.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "III. Hiệu quả (trên cơ sở kết quả thi đua của lớp chủ nhiệm mà đánh giá điểm cho từng sinh viên)",
+        "40",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "1.  Căn cứ kết quả và hiệu quả hàng tuần của lớp chủ nhiệm mà xác định điểm chung cho cả nhóm, căn cứ vào đóng góp của từng sinh viên mà xác định điểm từng  sinh viên.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "2. Căn cứ số lớp tham gia thi đua, ban chỉ đạo trường thực tập quy định điểm cụ thể về lớp được lên hạng, xuống hạng hoặc giữ nguyên từ đó quy ra điểm cả nhóm và từng sinh viên trong nhóm.",
+        "20",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Tổng hợp",
+        "100",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "Quy ra thang điểm 10",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0287",
+    "text": "Ghi chú:\t- Đánh giá theo từng sinh viên tham gia trong nhóm chủ nhiệm lớp."
+  },
+  {
+    "id": "P0288",
+    "text": "- Đánh giá và cho điểm theo từng tuần."
+  },
+  {
+    "id": "P0289",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0290",
+    "text": "TỔ TRƯỞNG CHỦ NHIỆM\tGIÁO VIÊN HƯỚNG DẪN"
+  },
+  {
+    "id": "P0291",
+    "text": "Phụ lục 20. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2"
+  },
+  {
+    "id": "P0292",
+    "text": "(Dành cho sinh viên)"
+  },
+  {
+    "id": "P0293",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0294",
+    "text": "BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2\nNĂM HỌC 20………… - 20…………"
+  },
+  {
+    "id": "P0295",
+    "text": "Họ tên sinh viên: ……………………………………………………………………………… Ngành thực tập:"
+  },
+  {
+    "id": "P0296",
+    "text": "Thực tập giảng dạy tại lớp: ………………………………………………  Chủ nhiệm tại lớp:"
+  },
+  {
+    "id": "P0297",
+    "text": "Các công tác khác được phân công:"
+  },
+  {
+    "id": "P0298",
+    "text": "PHẦN I. TỰ ĐÁNH GIÁ QUA CÁC NỘI DUNG THỰC TẬP"
+  },
+  {
+    "id": "P0299",
+    "text": "1. \tThâm nhập tìm hiểu thực tế giáo dục"
+  },
+  {
+    "id": "P0300",
+    "text": "- Ý thức, tinh thần, thái độ thâm nhập thực tế."
+  },
+  {
+    "id": "P0301",
+    "text": "- Những thành tích cụ thể."
+  },
+  {
+    "id": "P0302",
+    "text": "- Thu hoạch và tác dụng của công tác này"
+  },
+  {
+    "id": "P0303",
+    "text": "2. \tThực tập giảng dạy"
+  },
+  {
+    "id": "P0304",
+    "text": "- Tinh thần, thái độ, ý thức đối với công tác này, thể hiện qua các bước: dự giờ bạn, chuẩn bị bài, soạn kế hoạch bài dạy, làm đồ dùng dạy học, lên lớp, sử dụng thiết bị dạy học, hướng dẫn học sinh thảo luận, tự học ..."
+  },
+  {
+    "id": "P0305",
+    "text": "- Những công tác đã làm (chủ yếu là các tiết lên lớp và các công tác được phân công) và  kết quả cụ thể."
+  },
+  {
+    "id": "P0306",
+    "text": "- Trình độ nắm các nguyên tắc và  phương pháp lên lớp, thực hiện nền nếp dạy và học ở phổ thông."
+  },
+  {
+    "id": "P0307",
+    "text": "- Thu hoạch và tác dụng công tác này."
+  },
+  {
+    "id": "P0308",
+    "text": "3.\tThực tập chủ nhiệm/Quản lý nhóm trẻ"
+  },
+  {
+    "id": "P0309",
+    "text": "- Ý thức, tinh thần, thái độ đối với công tác chủ nhiệm/QLNT và các công tác khác có liên quan đến chức năng, nhiệm vụ của giáo viên."
+  },
+  {
+    "id": "P0310",
+    "text": "- Khả năng, phương pháp công tác chủ nhiệm; năng lực thực hiện nhiệm vụ của giáo viên. Kết quả cụ thể."
+  },
+  {
+    "id": "P0311",
+    "text": "- Thu hoạch và tác dụng của công tác này."
+  },
+  {
+    "id": "P0312",
+    "text": "4. \tÝ thức thực hiện nội quy thực tập"
+  },
+  {
+    "id": "P0313",
+    "text": "PHẦN II. ĐÁNH GIÁ CHUNG VÀ HƯỚNG PHẤN ĐẤU"
+  },
+  {
+    "id": "P0314",
+    "text": "- Một số thu hoạch lớn qua đợt thực tập."
+  },
+  {
+    "id": "P0315",
+    "text": "- Những mặt mạnh, mặt yếu."
+  },
+  {
+    "id": "P0316",
+    "text": "- Tự đánh giá, xếp loại về thực tập giảng dạy và chủ nhiệm/Quản lý nhóm trẻ"
+  },
+  {
+    "id": "P0317",
+    "text": "- Phương hướng phấn đấu sau đợt thực tập."
+  },
+  {
+    "id": "P0318",
+    "text": "PHẦN III. NHẬN XÉT CỦA NHÓM"
+  },
+  {
+    "id": "P0319",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0320",
+    "text": "GV HƯỚNG DẪN\tNHÓM TRƯỞNG\tSINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0321",
+    "text": "Ghi chú: Sinh viên viết bản tổng kết theo mẫu trên, sau khi tự trình bày, tập thể nhóm góp ý và ghi ý kiến tập thể vào cuối bản tổng kết."
+  },
+  {
+    "id": "P0322",
+    "text": "Phụ lục 21. NHẬN XÉT CÔNG TÁC THỰC TẬP GIẢNG DẠY"
+  },
+  {
+    "id": "P0323",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0324",
+    "text": "NHẬN XÉT CÔNG TÁC THỰC TẬP GIẢNG DẠY\nĐỢT THỰC TẬP SƯ PHẠM 2, NĂM HỌC 20………… - 20…………\nBỘ MÔN: …………………………………………"
+  },
+  {
+    "id": "P0325",
+    "text": "I. TÌNH HÌNH CHUNG"
+  },
+  {
+    "id": "P0326",
+    "text": "1. Số sinh viên thực tập (SV): …………"
+  },
+  {
+    "id": "P0327",
+    "text": "Phân thực tập lớp: …………/……… SV, lớp: …………/………… SV, lớp: ……………/………… SV"
+  },
+  {
+    "id": "P0328",
+    "text": "2. Tinh thần, thái độ, tác phong ... của SV:"
+  },
+  {
+    "id": "P0329",
+    "text": "II. ĐÁNH GIÁ CHẤT LƯỢNG SINH VIÊN"
+  },
+  {
+    "id": "P0330",
+    "text": "(Theo 4 phần ở Tiêu chuẩn đánh giá công tác giảng dạy, ghi rõ các mặt tốt và chưa tốt, các lỗi thường gặp)"
+  },
+  {
+    "id": "P0331",
+    "text": "1. Chuẩn bị bài giảng, kế hoạch bài dạy"
+  },
+  {
+    "id": "P0332",
+    "text": "2. Nội dung bài giảng trên lớp"
+  },
+  {
+    "id": "P0333",
+    "text": "3. Phương pháp giảng dạy"
+  },
+  {
+    "id": "P0334",
+    "text": "4. Phong cách lên lớp, kỹ năng giảng dạy, hiệu quả giờ dạy"
+  },
+  {
+    "id": "P0335",
+    "text": "5. Chương trình đào tạo (nêu rõ các mặt tốt và thiếu sót trong chương trình đào tạo)"
+  },
+  {
+    "id": "P0336",
+    "text": "III. CÁC VẤN ĐỀ CẦN NGHIÊN CỨU, BỔ SUNG ĐỂ NÂNG CAO CHẤT LƯỢNG ĐÀO TẠO"
+  },
+  {
+    "id": "P0337",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0338",
+    "text": "Trưởng Ban Chỉ đạo\tTổ trưởng chuyên môn"
+  },
+  {
+    "id": "P0339",
+    "text": "Phụ lục 22."
+  },
+  {
+    "id": "P0340",
+    "text": "NHẬN XÉT CÔNG TÁC THỰC TẬP CHỦ NHIỆM/QUẢN LÝ NHÓM TRẺ"
+  },
+  {
+    "id": "P0341",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0342",
+    "text": "NHẬN XÉT CÔNG TÁC THỰC TẬP CHỦ NHIỆM/QUẢN LÝ NHÓM TRẺ\nĐỢT THỰC TẬP SƯ PHẠM 2, NĂM HỌC 20………… - 20…………\nKHỐI LỚP: …………………………………………"
+  },
+  {
+    "id": "P0343",
+    "text": "I. TÌNH HÌNH CHUNG"
+  },
+  {
+    "id": "P0344",
+    "text": "1. Số sinh viên thực tập (SV): …………"
+  },
+  {
+    "id": "P0345",
+    "text": "Phân thực tập lớp : ……………/……… SV, lớp: ……………/………  SV, lớp: ……………/………  SV"
+  },
+  {
+    "id": "P0346",
+    "text": "2. Tinh thần, thái độ, tác phong ... của SV:"
+  },
+  {
+    "id": "P0347",
+    "text": "II. ĐÁNH GIÁ CHẤT LƯỢNG SINH VIÊN"
+  },
+  {
+    "id": "P0348",
+    "text": "(Dựa theo các nội dung ở Tiêu chuẩn đánh giá công tác chủ nhiệm/Quản lý nhóm trẻ, ghi rõ các mặt tốt và chưa tốt, các lỗi thường gặp)"
+  },
+  {
+    "id": "P0349",
+    "text": "1. Khả năng làm kế hoạch, tổ chức, chỉ đạo:"
+  },
+  {
+    "id": "P0350",
+    "text": "2. Khả năng thực hiện chức năng, nghiệp vụ của người GV:"
+  },
+  {
+    "id": "P0351",
+    "text": "3. Hiệu quả:"
+  },
+  {
+    "id": "P0352",
+    "text": "4. Chương trình đào tạo (nêu rõ các mặt tốt và thiếu sót trong chương trình đào tạo)"
+  },
+  {
+    "id": "P0353",
+    "text": "III. CÁC VẤN ĐỀ CẦN NGHIÊN CỨU, BỔ SUNG ĐỂ NÂNG CAO CHẤT LƯỢNG ĐÀO TẠO:"
+  },
+  {
+    "id": "P0354",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0355",
+    "text": "Trưởng Ban Chỉ đạo\tTổ trưởng chủ nhiệm"
+  },
+  {
+    "id": "P0356",
+    "text": "Phụ lục 23. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2"
+  },
+  {
+    "id": "P0357",
+    "text": "(Dành cho trường hướng dẫn sinh viên thực tập sư phạm)"
+  },
+  {
+    "id": "P0358",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0359",
+    "text": "BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2\nNĂM HỌC 20…………- 20…………"
+  },
+  {
+    "id": "P0360",
+    "text": "PHẦN I. TÌNH HÌNH CHUNG"
+  },
+  {
+    "id": "P0361",
+    "text": "1. Số lượng"
+  },
+  {
+    "id": "P0362",
+    "text": "a. Sinh viên có mặt thực tập: Tổng số: .............. , trong đó: nam ............. nữ ..............,"
+  },
+  {
+    "id": "P0363",
+    "text": "Số vắng, số bỏ nửa chừng, đến muộn (lý do, ghi rõ họ tên sinh viên)."
+  },
+  {
+    "id": "P0364",
+    "text": "b. Ban chỉ đạo và cán bộ hướng dẫn: (họ tên, nhiệm vụ được giao)."
+  },
+  {
+    "id": "P0365",
+    "text": "2. Thời gian thực tập"
+  },
+  {
+    "id": "P0366",
+    "text": "Có tiến hành theo đúng hướng dẫn của Trường Đại học Sư phạm, Đại học Huế không? (Nếu thay đổi thì nêu lý do)."
+  },
+  {
+    "id": "P0367",
+    "text": "3. Đặc điểm tình hình"
+  },
+  {
+    "id": "P0368",
+    "text": "Đặc điểm tình hình của nhà trường, của địa phương nơi trường đóng (những thuận lợi, khó khăn chính mà trường thực tập gặp phải, những việc làm tốt để tạo điều kiện thuận lợi cho đoàn hoạt động)."
+  },
+  {
+    "id": "P0369",
+    "text": "PHẦN II. ĐÁNH GIÁ VIỆC THỰC HIỆN KẾ HOẠCH CỦA TRƯỜNG THỰC TẬP"
+  },
+  {
+    "id": "P0370",
+    "text": "1. Chuẩn bị, thâm nhập, tìm hiểu thực tế trường thực tập, địa phương, học sinh …"
+  },
+  {
+    "id": "P0371",
+    "text": "2. Kế hoạch tiến hành, phương pháp thực hiện, kết quả của việc chấp hành quy chế của Bộ Giáo dục và Đào tạo, Quy định của Trường Đại học Sư phạm, Đại học Huế."
+  },
+  {
+    "id": "P0372",
+    "text": "3. Ưu khuyết điểm; những điểm bất thường (nếu có), cách giải quyết của đoàn."
+  },
+  {
+    "id": "P0373",
+    "text": "PHẦN III. ĐÁNH GIÁ VỀ CÔNG TÁC CHỈ ĐẠO SINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0374",
+    "text": "1. Thâm nhập, tìm hiểu thực tế và các công tác phục vụ khác."
+  },
+  {
+    "id": "P0375",
+    "text": "2. Công tác chỉ đạo thực tập giáo dục"
+  },
+  {
+    "id": "P0376",
+    "text": "Các hoạt động về thực hiện tổ chức lớp học, các hoạt động giáo dục, khen thưởng, kỷ luật học sinh."
+  },
+  {
+    "id": "P0377",
+    "text": "3. Công tác thực tập giảng dạy"
+  },
+  {
+    "id": "P0378",
+    "text": "- Chỉ đạo soạn kế hoạch bài dạy, làm đồ dùng dạy học, sử dụng thiết bị dạy học, tập giảng."
+  },
+  {
+    "id": "P0379",
+    "text": "- Chỉ đạo dự giờ rút kinh nghiệm."
+  },
+  {
+    "id": "P0380",
+    "text": "PHẦN IV. ĐÁNH GIÁ VỀ SINH VIÊN THỰC TẬP"
+  },
+  {
+    "id": "P0381",
+    "text": "1. Đánh giá trình độ nắm vững kiến thức văn hoá, nghiệp vụ giảng dạy trên lớp và các hoạt động phục vụ giảng dạy, chủ nhiệm/quản lý nhóm trẻ, nghiệp vụ.... của giáo viên, của học sinh/trẻ mầm non."
+  },
+  {
+    "id": "P0382",
+    "text": "2. Những sai sót về mặt kiến thức, nghiệp vụ, có ví dụ cụ thể (tên sinh viên thực tập, môn sai sót ở giờ giảng nào, tác hại của sai sót đó)."
+  },
+  {
+    "id": "P0383",
+    "text": "3. Nhận xét về khâu đào tạo, rèn luyện nghiệp vụ sư phạm. Mỗi bộ môn viết bản nhận xét riêng nêu các mặt tốt và chưa tốt mà sinh viên gặp phải, đề nghị Khoa/Trường Đại học Sư phạm cần nghiên cứu bổ sung vào chương trình kế hoạch đào tạo (theo mẫu)."
+  },
+  {
+    "id": "P0384",
+    "text": "PHẦN V. NHỮNG NHẬN XÉT VÀ ĐỀ NGHỊ"
+  },
+  {
+    "id": "P0385",
+    "text": "1. Nội dung đào tạo của các ngành chuyên môn: Tốt, chưa tốt về mặt nào? Kèm theo nhận xét của từng bộ môn."
+  },
+  {
+    "id": "P0386",
+    "text": "2. Phương thức đào tạo: về nội dung, về chế độ chính sách."
+  },
+  {
+    "id": "P0387",
+    "text": "3. Ban Chỉ đạo trường thực tập cho ý kiến về:"
+  },
+  {
+    "id": "P0388",
+    "text": "Cơ cấu sinh viên phân bổ về trường thực tập;"
+  },
+  {
+    "id": "P0389",
+    "text": "Các văn bản triển khai: Quy định về thực tập sư phạm, kế hoạch thực hiện, đánh giá kết quả thực tập của sinh viên,…;"
+  },
+  {
+    "id": "P0390",
+    "text": "Những vấn đề khác (nếu có)."
+  },
+  {
+    "id": "P0391",
+    "text": "PHẦN VI. ĐỀ NGHỊ KHEN THƯỞNG, KỶ LUẬT"
+  },
+  {
+    "id": "P0392",
+    "text": "Danh sách đề nghị khen thưởng sinh viên thực tập. Nếu có trường hợp đề nghị kỷ luật phải có hồ sơ kèm theo."
+  },
+  {
+    "id": "P0393",
+    "text": "………………, ngày ………… tháng ………… năm …………"
+  },
+  {
+    "id": "P0394",
+    "text": "TRƯỞNG BAN CHỈ ĐẠO\n\t\t(Ký tên và đóng dấu)"
+  },
+  {
+    "id": "P0395",
+    "text": "Ghi chú: Báo cáo viết thành 02 bản: 01 bản gửi về Trường Đại học Sư phạm, Đại học Huế, 01 bản lưu tại trường thực tập."
+  },
+  {
+    "id": "P0396",
+    "text": "Phụ lục 24. KẾT QUẢ THỰC TẬP SƯ PHẠM 2"
+  },
+  {
+    "id": "P0397",
+    "text": "SỞ/PHÒNG GD-ĐT ................................\tCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\tTRƯỜNG ..................................................\tĐộc lập - Tự do - Hạnh phúc"
+  },
+  {
+    "id": "P0398",
+    "text": "BẢNG TỔNG HỢP KẾT QUẢ THỰC TẬP SƯ PHẠM 2\ncủa sinh viên Trường Đại học Sư phạm, Đại học Huế\nNăm học 20…………- 20…………\nTại Trường ………………………………………………………"
+  },
+  {
+    "id": "T0399",
+    "rows": [
+      [
+        "TT",
+        "Mã SV",
+        "Họ và  tên SV",
+        "Ngày  sinh",
+        "Ngành",
+        "Điểm đánh giá",
+        "Điểm\nthưởng (+)\n/phạt (-)",
+        "Kết quả TTSP \n(*)"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "THTT\nGD",
+        "TT\nGD",
+        "TT\nCN/QLNT",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        ".",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ]
+  },
+  {
+    "id": "P0400",
+    "text": "Tổng kết danh sách này có ................ sinh viên."
+  },
+  {
+    "id": "P0401",
+    "text": "(*) GHI CHÚ: điểm kết quả chung được làm tròn đến 1 chữ số thập phận (ví dụ: 7,1; 8,2; 9,3...)"
+  },
+  {
+    "id": "P0402",
+    "text": "………………, ngày ………… tháng ………… năm …………\n\t\tTRƯỞNG BAN CHỈ ĐẠO TTSP\n\t\t(Ký tên và đóng dấu)"
+  },
+  {
+    "id": "P0403",
+    "text": "DANH MỤC PHỤ LỤC"
+  },
+  {
+    "id": "P0404",
+    "text": "Chương  I - NHỮNG VẤN ĐỀ CHUNG\t1"
+  },
+  {
+    "id": "P0405",
+    "text": "Điều 1. Phạm vi thực hiện và đối tượng áp dụng\t1"
+  },
+  {
+    "id": "P0406",
+    "text": "Điều 2. Mục đích, yêu cầu\t1"
+  },
+  {
+    "id": "P0407",
+    "text": "Điều 3. Điều kiện tham gia thực tập sư phạm\t1"
+  },
+  {
+    "id": "P0408",
+    "text": "Điều 4. Đối tượng, địa điểm thực tập sư phạm\t1"
+  },
+  {
+    "id": "P0409",
+    "text": "Điều 5. Thang điểm, yêu cầu đánh giá\t2"
+  },
+  {
+    "id": "P0410",
+    "text": "Điều 6. Cơ cấu tổ chức\t3"
+  },
+  {
+    "id": "P0411",
+    "text": "Điều 7. Kinh phí\t4"
+  },
+  {
+    "id": "P0412",
+    "text": "Chương  II – THỰC TẬP SƯ PHẠM 1\t4"
+  },
+  {
+    "id": "P0413",
+    "text": "Điều 8. Mục tiêu của Thực tập sư phạm 1\t4"
+  },
+  {
+    "id": "P0414",
+    "text": "Điều 9. Thời lượng và phương thức tổ chức Thực tập sư phạm 1\t5"
+  },
+  {
+    "id": "P0415",
+    "text": "Điều 10. Nội dung Thực tập sư phạm 1\t5"
+  },
+  {
+    "id": "P0416",
+    "text": "Điều 11. Đánh giá kết quả Thực tập sư phạm 1\t7"
+  },
+  {
+    "id": "P0417",
+    "text": "Điều 12. Hồ sơ thực hiện học phần Thực tập sư phạm 1\t8"
+  },
+  {
+    "id": "P0418",
+    "text": "Chương III - THỰC TẬP SƯ PHẠM 2\t9"
+  },
+  {
+    "id": "P0419",
+    "text": "Điều 13. Mục tiêu Thực tập sư phạm 2\t9"
+  },
+  {
+    "id": "P0420",
+    "text": "Điều 14. Thời lượng và phương thức tổ chức Thực tập sư phạm 2\t9"
+  },
+  {
+    "id": "P0421",
+    "text": "Điều 15. Nội dung Thực tập sư phạm 2\t10"
+  },
+  {
+    "id": "P0422",
+    "text": "Điều 16. Đánh giá, cho điểm nội dung Thực tập sư phạm 2\t13"
+  },
+  {
+    "id": "P0423",
+    "text": "Điều 17. Sơ kết thực tập sư phạm 2\t15"
+  },
+  {
+    "id": "P0424",
+    "text": "Điều 18. Tổng kết đợt thực tập sư phạm 2\t15"
+  },
+  {
+    "id": "P0425",
+    "text": "Điều 19. Trình tự tổ chức tổng kết thực tập sư phạm 2\t16"
+  },
+  {
+    "id": "P0426",
+    "text": "Điều 20. Hồ sơ thực tập sư phạm 2\t16"
+  },
+  {
+    "id": "P0427",
+    "text": "Chương IV - NHIỆM VỤ VÀ QUYỀN HẠN\t17"
+  },
+  {
+    "id": "P0428",
+    "text": "Điều 21. Nhiệm vụ, quyền hạn của cơ sở thực tập\t17"
+  },
+  {
+    "id": "P0429",
+    "text": "Điều 22. Nhiệm vụ và quyền hạn của Trường Đại học Sư phạm, Đại học Huế\t20"
+  },
+  {
+    "id": "P0430",
+    "text": "Chương V - KHEN THƯỞNG VÀ KỶ LUẬT\t22"
+  },
+  {
+    "id": "P0431",
+    "text": "Điều 23. Khen thưởng\t22"
+  },
+  {
+    "id": "P0432",
+    "text": "Điều 24. Kỷ luật\t23"
+  },
+  {
+    "id": "P0433",
+    "text": "Chương VI - ĐIỀU KHOẢN THI HÀNH\t24"
+  },
+  {
+    "id": "P0434",
+    "text": "Điều 25. Phạm vi áp dụng và điều khoản thi hành\t24"
+  },
+  {
+    "id": "P0435",
+    "text": "PHỤ LỤC\t25"
+  },
+  {
+    "id": "P0436",
+    "text": "Phụ lục 1. NỘI QUY THỰC TẬP SƯ PHẠM\t25"
+  },
+  {
+    "id": "P0437",
+    "text": "Phụ lục 2. HƯỚNG DẪN DỰ GIỜ VÀ RÚT KINH NGHIỆM GIỜ DẠY\t27"
+  },
+  {
+    "id": "P0438",
+    "text": "Phụ lục 3. HƯỚNG DẪN DỰ GIỜ SINH HOẠT CHỦ NHIỆM LỚP\t29"
+  },
+  {
+    "id": "P0439",
+    "text": "Phụ lục 4. PHIẾU DỰ GIỜ\t30"
+  },
+  {
+    "id": "P0440",
+    "text": "Phụ lục 5. MẪU THU HOẠCH TÌM HIỂU THỰC TẾ GIÁO DỤC\t31"
+  },
+  {
+    "id": "P0441",
+    "text": "Phụ lục 6. MẪU KẾ HOẠCH CÔNG TÁC THỰC TẬP GIẢNG DẠY\t32"
+  },
+  {
+    "id": "P0442",
+    "text": "Phụ lục 7. MẪU KẾ HOẠCH CÔNG TÁC CHỦ NHIỆM LỚP/QUẢN LÝ NHÓM TRẺ\t33"
+  },
+  {
+    "id": "P0443",
+    "text": "Phụ lục 8. PHIẾU ĐÁNH GIÁ KẾT QUẢ TÌM HIỂU THỰC TẾ GIÁO DỤC\t34"
+  },
+  {
+    "id": "P0444",
+    "text": "Phụ lục 9. TỔNG HỢP PHIẾU ĐÁNH GIÁ THỰC TẬP GIẢNG DẠY (đợt TTSP1)\t35"
+  },
+  {
+    "id": "P0445",
+    "text": "Phụ lục 10. PHIẾU ĐÁNH GIÁ THỰC TẬP CHỦ NHIỆM LỚP/QUẢN LÝ NHÓM TRẺ (Đợt TTSP1)\t36"
+  },
+  {
+    "id": "P0446",
+    "text": "Phụ lục 11. PHIẾU NHẬN XÉT, ĐÁNH GIÁ KẾT QUẢ THỰC TẬP SƯ PHẠM 1\t38"
+  },
+  {
+    "id": "P0447",
+    "text": "Phụ lục 12. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 1\t39"
+  },
+  {
+    "id": "P0448",
+    "text": "(Dành cho trường hướng dẫn thực tập sư phạm)\t39"
+  },
+  {
+    "id": "P0449",
+    "text": "Phụ lục 13. KẾT QUẢ THỰC TẬP SƯ PHẠM 1\t41"
+  },
+  {
+    "id": "P0450",
+    "text": "Phụ lục 14. PHIẾU ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY\t42"
+  },
+  {
+    "id": "P0451",
+    "text": "(Sử dụng cho tiết dạy học trên lớp trực tiếp hoặc trực tuyến)  (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)\t42"
+  },
+  {
+    "id": "P0452",
+    "text": "Phụ lục 15. PHIẾU TỔNG HỢP ĐÁNH GIÁ CÁC TIẾT THỰC TẬP GIẢNG DẠY (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)\t43"
+  },
+  {
+    "id": "P0453",
+    "text": "Phụ lục 16. PHIẾU ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY\t45"
+  },
+  {
+    "id": "P0454",
+    "text": "(Sử dụng cho tiết dạy học trên lớp trực tiếp hoặc trực tuyến)  (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường tiểu học, THCS, THPT)\t45"
+  },
+  {
+    "id": "P0455",
+    "text": "Phụ lục 17. PHIẾU TỔNG HỢP ĐÁNH GIÁ TIẾT THỰC TẬP GIẢNG DẠY (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường tiểu học, THCS, THPT)\t46"
+  },
+  {
+    "id": "P0456",
+    "text": "Phụ lục 18. PHIẾU ĐÁNH GIÁ CÔNG TÁC QUẢN LÝ NHÓM TRẺ (Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường mầm non)\t46"
+  },
+  {
+    "id": "P0457",
+    "text": "Phụ lục 19. PHIẾU ĐÁNH GIÁ CÔNG TÁC THỰC TẬP CHỦ NHIỆM\t50"
+  },
+  {
+    "id": "P0458",
+    "text": "(Đợt TTSP 2 - Dành cho sinh viên thực tập ở trường tiểu học, THPT, THCS)\t50"
+  },
+  {
+    "id": "P0459",
+    "text": "Phụ lục 20. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2 (Dành cho sinh viên)\t52"
+  },
+  {
+    "id": "P0460",
+    "text": "Phụ lục 21. NHẬN XÉT CÔNG TÁC THỰC TẬP GIẢNG DẠY\t53"
+  },
+  {
+    "id": "P0461",
+    "text": "Phụ lục 22. NHẬN XÉT CÔNG TÁC THỰC TẬP CHỦ NHIỆM/QUẢN LÝ NHÓM TRẺ\t54"
+  },
+  {
+    "id": "P0462",
+    "text": "Phụ lục 23. BÁO CÁO TỔNG KẾT THỰC TẬP SƯ PHẠM 2\t55"
+  },
+  {
+    "id": "P0463",
+    "text": "(Dành cho trường hướng dẫn sinh viên thực tập sư phạm)\t55"
+  },
+  {
+    "id": "P0464",
+    "text": "Phụ lục 24. KẾT QUẢ THỰC TẬP SƯ PHẠM 2\t57"
+  }
+]

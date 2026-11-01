@@ -1,0 +1,480 @@
+{
+  "scope": "QA repository only, not a final report or Word layout validation",
+  "checks": [
+    {
+      "check": "Manifest records all 9 raw Office files",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: 1. Kế hoạch TTSP1 năm 2026-2027.docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: 1. Kế hoạch TTSP1 năm 2026-2027.docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: 2.10.26. Kế hoạch giáo dục nhà trường 2026-2027.docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: 2.10.26. Kế hoạch giáo dục nhà trường 2026-2027.docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: BAO_CAO_DOAN_TTSP1_THANG_10.docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: Báo cáo tổng kết năm học 2025 -2026.chốt.doc",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: Báo cáo tổng kết năm học 2025 -2026.chốt.doc",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: Bìa bài thu hoạch trường.docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: Bìa bài thu hoạch trường.docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: FORM BÀI THU HOẠCH TÌM HIỂU THỰC TẾ GIÁO DỤC TTSP1.docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: FORM BÀI THU HOẠCH TÌM HIỂU THỰC TẾ GIÁO DỤC TTSP1.docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: Hình thức làm bài thu hoạch (1).docx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: Hình thức làm bài thu hoạch (1).docx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: Phân công giảng dạy HK1 năm học 2026- 2027.xlsx",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: Phân công giảng dạy HK1 năm học 2026- 2027.xlsx",
+      "passed": true
+    },
+    {
+      "check": "Original bytes and SHA-256: vt_phu_luc_kem_theo_qd_2760_qd-dhsp.doc",
+      "passed": true
+    },
+    {
+      "check": "JSON + Markdown extraction: vt_phu_luc_kem_theo_qd_2760_qd-dhsp.doc",
+      "passed": true
+    },
+    {
+      "check": "46 students, unique names+birth dates, complete teacher assignments",
+      "passed": true
+    },
+    {
+      "check": "Both student STT sets cover 1..46",
+      "passed": true
+    },
+    {
+      "check": "12 class records and 302 students",
+      "passed": true
+    },
+    {
+      "check": "Each class learning and conduct categories sum to enrolment",
+      "passed": true
+    },
+    {
+      "check": "Class totals reconcile to 104/161/37/0 and 263/31/5/3",
+      "passed": true
+    },
+    {
+      "check": "10 outstanding and 92 excellent student award entries",
+      "passed": true
+    },
+    {
+      "check": "New school enrolment and class breakdown reconcile",
+      "passed": true
+    },
+    {
+      "check": "Exactly seven knowledge documents",
+      "passed": true
+    },
+    {
+      "check": "Pagination covers physical pages 1..35 exactly once",
+      "passed": true
+    },
+    {
+      "check": "Detailed outline reaches H4 and preserves required FORM topics",
+      "passed": true
+    },
+    {
+      "check": "Confirmed personal identity and exact assigned class",
+      "passed": true
+    },
+    {
+      "check": "Word output and no completed lesson observations in week one",
+      "passed": true
+    },
+    {
+      "check": "Master prompt exists and has handoff instructions",
+      "passed": true
+    },
+    {
+      "check": "All explicit single-range SUM caches reconcile",
+      "passed": true
+    }
+  ],
+  "formula_audit": [
+    {
+      "cell": "F8",
+      "cache": 79.0,
+      "sum_recomputed": 79.0,
+      "matches": true
+    },
+    {
+      "cell": "G8",
+      "cache": 79.0,
+      "sum_recomputed": 79.0,
+      "matches": true
+    },
+    {
+      "cell": "G9",
+      "cache": 18.0,
+      "sum_recomputed": 18.0,
+      "matches": true
+    },
+    {
+      "cell": "G13",
+      "cache": 16.0,
+      "sum_recomputed": 16.0,
+      "matches": true
+    },
+    {
+      "cell": "G16",
+      "cache": 13.0,
+      "sum_recomputed": 13.0,
+      "matches": true
+    },
+    {
+      "cell": "G20",
+      "cache": 8.0,
+      "sum_recomputed": 8.0,
+      "matches": true
+    },
+    {
+      "cell": "G22",
+      "cache": 7.0,
+      "sum_recomputed": 7.0,
+      "matches": true
+    },
+    {
+      "cell": "G24",
+      "cache": 10.0,
+      "sum_recomputed": 10.0,
+      "matches": true
+    },
+    {
+      "cell": "F27",
+      "cache": 24.0,
+      "sum_recomputed": 24.0,
+      "matches": true
+    },
+    {
+      "cell": "G27",
+      "cache": 24.0,
+      "sum_recomputed": 24.0,
+      "matches": true
+    },
+    {
+      "cell": "G29",
+      "cache": 2.0,
+      "sum_recomputed": 2.0,
+      "matches": true
+    },
+    {
+      "cell": "G30",
+      "cache": 6.0,
+      "sum_recomputed": 6.0,
+      "matches": true
+    },
+    {
+      "cell": "G32",
+      "cache": 7.0,
+      "sum_recomputed": 7.0,
+      "matches": true
+    },
+    {
+      "cell": "F37",
+      "cache": 39.0,
+      "sum_recomputed": 39.0,
+      "matches": true
+    },
+    {
+      "cell": "G37",
+      "cache": 39.0,
+      "sum_recomputed": 39.0,
+      "matches": true
+    },
+    {
+      "cell": "G38",
+      "cache": 13.0,
+      "sum_recomputed": 13.0,
+      "matches": true
+    },
+    {
+      "cell": "G41",
+      "cache": 15.0,
+      "sum_recomputed": 15.0,
+      "matches": true
+    },
+    {
+      "cell": "G45",
+      "cache": 8.0,
+      "sum_recomputed": 8.0,
+      "matches": true
+    },
+    {
+      "cell": "F47",
+      "cache": 4.0,
+      "sum_recomputed": 4.0,
+      "matches": true
+    },
+    {
+      "cell": "G47",
+      "cache": 4.0,
+      "sum_recomputed": 4.0,
+      "matches": true
+    },
+    {
+      "cell": "F50",
+      "cache": 26.0,
+      "sum_recomputed": 26.0,
+      "matches": true
+    },
+    {
+      "cell": "G50",
+      "cache": 26.0,
+      "sum_recomputed": 26.0,
+      "matches": true
+    },
+    {
+      "cell": "G51",
+      "cache": 8.0,
+      "sum_recomputed": 8.0,
+      "matches": true
+    },
+    {
+      "cell": "F55",
+      "cache": 12.0,
+      "sum_recomputed": 12.0,
+      "matches": true
+    },
+    {
+      "cell": "G55",
+      "cache": 12.0,
+      "sum_recomputed": 12.0,
+      "matches": true
+    },
+    {
+      "cell": "F58",
+      "cache": 11.0,
+      "sum_recomputed": 11.0,
+      "matches": true
+    },
+    {
+      "cell": "G58",
+      "cache": 11.0,
+      "sum_recomputed": 11.0,
+      "matches": true
+    },
+    {
+      "cell": "G59",
+      "cache": 11.0,
+      "sum_recomputed": 11.0,
+      "matches": true
+    },
+    {
+      "cell": "F62",
+      "cache": 70.0,
+      "sum_recomputed": 70.0,
+      "matches": true
+    },
+    {
+      "cell": "G62",
+      "cache": 70.0,
+      "sum_recomputed": 70.0,
+      "matches": true
+    },
+    {
+      "cell": "G63",
+      "cache": 20.0,
+      "sum_recomputed": 20.0,
+      "matches": true
+    },
+    {
+      "cell": "G70",
+      "cache": 11.0,
+      "sum_recomputed": 11.0,
+      "matches": true
+    },
+    {
+      "cell": "G72",
+      "cache": 7.0,
+      "sum_recomputed": 7.0,
+      "matches": true
+    },
+    {
+      "cell": "G73",
+      "cache": 12.0,
+      "sum_recomputed": 12.0,
+      "matches": true
+    },
+    {
+      "cell": "G74",
+      "cache": 4.0,
+      "sum_recomputed": 4.0,
+      "matches": true
+    },
+    {
+      "cell": "F75",
+      "cache": 30.0,
+      "sum_recomputed": 30.0,
+      "matches": true
+    },
+    {
+      "cell": "G75",
+      "cache": 30.0,
+      "sum_recomputed": 30.0,
+      "matches": true
+    },
+    {
+      "cell": "F79",
+      "cache": 17.0,
+      "sum_recomputed": 17.0,
+      "matches": true
+    },
+    {
+      "cell": "G79",
+      "cache": 17.0,
+      "sum_recomputed": 17.0,
+      "matches": true
+    },
+    {
+      "cell": "G81",
+      "cache": 15.0,
+      "sum_recomputed": 15.0,
+      "matches": true
+    },
+    {
+      "cell": "F84",
+      "cache": 43.0,
+      "sum_recomputed": 43.0,
+      "matches": true
+    },
+    {
+      "cell": "G84",
+      "cache": 43.0,
+      "sum_recomputed": 43.0,
+      "matches": true
+    },
+    {
+      "cell": "G87",
+      "cache": 16.0,
+      "sum_recomputed": 16.0,
+      "matches": true
+    },
+    {
+      "cell": "F92",
+      "cache": 22.0,
+      "sum_recomputed": 22.0,
+      "matches": true
+    },
+    {
+      "cell": "G92",
+      "cache": 22.0,
+      "sum_recomputed": 22.0,
+      "matches": true
+    },
+    {
+      "cell": "G93",
+      "cache": 16.0,
+      "sum_recomputed": 16.0,
+      "matches": true
+    },
+    {
+      "cell": "F97",
+      "cache": 29.0,
+      "sum_recomputed": 29.0,
+      "matches": true
+    },
+    {
+      "cell": "G97",
+      "cache": 29.0,
+      "sum_recomputed": 29.0,
+      "matches": true
+    },
+    {
+      "cell": "G99",
+      "cache": 17.0,
+      "sum_recomputed": 17.0,
+      "matches": true
+    },
+    {
+      "cell": "F103",
+      "cache": 13.0,
+      "sum_recomputed": 13.0,
+      "matches": true
+    },
+    {
+      "cell": "G103",
+      "cache": 13.0,
+      "sum_recomputed": 13.0,
+      "matches": true
+    },
+    {
+      "cell": "F107",
+      "cache": 14.0,
+      "sum_recomputed": 14.0,
+      "matches": true
+    },
+    {
+      "cell": "G107",
+      "cache": 14.0,
+      "sum_recomputed": 14.0,
+      "matches": true
+    },
+    {
+      "cell": "F109",
+      "cache": 39.0,
+      "sum_recomputed": 39.0,
+      "matches": true
+    },
+    {
+      "cell": "G109",
+      "cache": 39.0,
+      "sum_recomputed": 39.0,
+      "matches": true
+    },
+    {
+      "cell": "G119",
+      "cache": 2.0,
+      "sum_recomputed": 2.0,
+      "matches": true
+    }
+  ],
+  "media_count": 8,
+  "source_formula_scope_notes": [
+    "F27/G27 exclude row28 (3 periods)",
+    "F79/G79 exclude row83 (5 periods)"
+  ]
+}
