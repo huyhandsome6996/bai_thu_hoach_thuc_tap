@@ -1,6 +1,13 @@
 # Blueprint bài thu hoạch TTSP1 tại THPT Thuận Hóa
 
-Đợt thực tập 26/10–21/11/2026; chốt tìm hiểu tuần 1 ngày 01/11; hạn bài thực tế giáo dục 02/11/2026. Đã cập nhật hồ sơ **Hồ Quang Huy, MSSV 24S1020030, ngành Sư phạm Tin học, lớp thực tập chủ nhiệm 12/2**, đầu ra **Word .docx**. Repository đã chuẩn bị tri thức và đặc tả cho Coding Agent; chưa có bài nộp cuối.
+Đợt thực tập 26/10–21/11/2026; chốt tìm hiểu tuần 1 ngày 01/11; hạn bài thực tế giáo dục 02/11/2026. Hồ sơ **Hồ Quang Huy, MSSV 24S1020030, lớp Tin3A, ngành Sư phạm Tin học, lớp thực tập chủ nhiệm 12/2**. Đã có bài Word theo FORM, kiểm tra và sửa từ commit `36ea69e`; bản xuất Microsoft Word có **35 trang A4**.
+
+## Bản đã kiểm tra
+
+- [Bài thu hoạch Word](05_final_report/BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx).
+- [Kết quả kiểm tra và sửa](05_final_report/qa_report.md), [kiểm tra tài liệu dạng JSON](05_final_report/qa_checks.json).
+- PDF cùng tên trong `05_final_report/` là bản đối chiếu dàn trang xuất từ Word. Phần nhận xét/chữ ký để trống theo mẫu.
+- Chạy kiểm tra bản nộp bằng Python của runtime có python-docx/pypdf: `python 04_scripts/qa_submission.py`. Tái dựng DOCX: `build_docx_huy.py`, sau đó cập nhật mục lục và xuất PDF bằng `render_word_review.ps1` trên Windows có Microsoft Word; render và xem lại sau mỗi sửa đổi. Script QA không thay kiểm tra hình ảnh.
 
 ## Bắt đầu từ đây
 

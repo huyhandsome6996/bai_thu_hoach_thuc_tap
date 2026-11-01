@@ -132,18 +132,18 @@ def caption_seq_para(doc, title):
     set_para_format(p, align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None,
                     keep_next=True)
     r1 = p.add_run("Bảng ")
-    set_run_font(r1, size=12, bold=True)
+    set_run_font(r1, size=13, bold=True)
     add_field(p, ' SEQ Bảng \\* ARABIC ', "1")
     # fix formatting for field runs
     for r in p.runs:
-        set_run_font(r, size=12, bold=True)
+        set_run_font(r, size=13, bold=True)
     r_last = p.add_run(". " + title)
-    set_run_font(r_last, size=12, bold=True)
+    set_run_font(r_last, size=13, bold=True)
     return p
 
 def add_source_line(doc, text):
-    return add_para(doc, text, size=12, italic=True,
-                    align=WD_ALIGN_PARAGRAPH.JUSTIFY, first_line=None, after=6)
+    return add_para(doc, text, size=13, italic=True,
+                    align=WD_ALIGN_PARAGRAPH.JUSTIFY, first_line=None, after=0)
 
 # ------------------------------------------------------------ table build
 
@@ -201,7 +201,9 @@ def set_tbl_grid(tbl, widths):
 
 def build_table(doc, rows, title=None):
     n_cols = len(rows[0])
-    fsize = 13 if n_cols <= 5 else 12
+    fsize = 13
+    if title:
+        caption_seq_para(doc, title)
     tbl = doc.add_table(rows=len(rows), cols=n_cols)
     tbl.alignment = WD_TABLE_ALIGNMENT.CENTER
     tbl.autofit = False
@@ -227,6 +229,9 @@ def build_table(doc, rows, title=None):
     cm_vals = [max(16.0 * w / total, 1.6) for w in weights]
     sc = 16.0 / sum(cm_vals)
     cm_vals = [x * sc for x in cm_vals]
+    if title == "Tóm tắt hoạt động đã thực hiện trong tuần đầu":
+        # Reserve enough room for a complete date instead of breaking 2026 across lines.
+        cm_vals = [1.2, 6.5, 3.6, 4.7]
     widths = [Cm(x) for x in cm_vals]
     # ghi lưới cột để khóa chiều rộng (twips)
     set_tbl_grid(tbl, [int(x * 567) for x in cm_vals])
@@ -243,13 +248,18 @@ def build_table(doc, rows, title=None):
             is_short = len(txt) <= 14
             align = WD_ALIGN_PARAGRAPH.CENTER if (header or is_short) else WD_ALIGN_PARAGRAPH.LEFT
             set_para_format(p, align=align, first_line=None)
+            if header:
+                p.paragraph_format.keep_with_next = True
             tcPr = cell._tc.get_or_add_tcPr()
     for j, w in enumerate(widths):
         for i in range(len(rows)):
             tbl.cell(i, j).width = w
     set_repeat_header(tbl.rows[0])
-    if title:
-        caption_seq_para(doc, title)
+    for row in tbl.rows:
+        # Keep an individual record together (names/times must not split across pages).
+        trPr = row._tr.get_or_add_trPr()
+        cant_split = OxmlElement("w:cantSplit")
+        trPr.append(cant_split)
     return tbl
 
 # ------------------------------------------------------- markdown parser
@@ -264,7 +274,10 @@ def parse_md(md_text):
         if not line.strip():
             i += 1
             continue
-        if line.startswith("####"):
+        if line.startswith("#####"):
+            blocks.append(("h5", line.lstrip("#").strip()))
+            i += 1
+        elif line.startswith("####"):
             blocks.append(("h4", line.lstrip("#").strip()))
             i += 1
         elif line.startswith("###"):
@@ -305,11 +318,11 @@ def parse_md(md_text):
             i += 1
     return blocks
 
-HEADING_SIZES = {"h1": 14, "h2": 13, "h3": 13, "h4": 13}
+HEADING_SIZES = {"h1": 13, "h2": 13, "h3": 13, "h4": 13, "h5": 13}
 
 def render_blocks(doc, blocks, heading_map=None):
     for kind, payload in blocks:
-        if kind in ("h1", "h2", "h3", "h4"):
+        if kind in ("h1", "h2", "h3", "h4", "h5"):
             level = int(kind[1])
             if heading_map is not None:
                 payload = heading_map.get(payload, payload)
@@ -371,12 +384,7 @@ def add_signature_table(doc):
         el.set(qn("w:val"), "none")
         borders.append(el)
     tblPr.append(borders)
-    # ngắt trang sau khối chữ ký
-    pbr = doc.add_paragraph()
-    set_para_format(pbr, first_line=None)
-    run = pbr.add_run()
-    br = OxmlElement("w:br"); br.set(qn("w:type"), "page")
-    run._element.append(br)
+    # No trailing page break: the signature page is the end of the document.
 
 # ------------------------------------------------------------ cover page
 
@@ -486,20 +494,20 @@ def build_cover(doc):
 # ------------------------------------------------------------ TOC pages
 
 def build_toc(doc):
-    add_para(doc, "MỤC LỤC", size=14, bold=True,
-             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None, after=6)
+    add_para(doc, "MỤC LỤC", size=13, bold=True,
+             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None)
     p = doc.add_paragraph()
     set_para_format(p, first_line=None)
     add_field(p, ' TOC \\o "1-3" \\h \\z \\u ',
               "Mục lục tự động – mở tài liệu trong Microsoft Word và cập nhật trường để hiển thị.")
-    add_para(doc, "DANH MỤC BẢNG", size=14, bold=True,
-             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None, before=12, after=6)
+    add_para(doc, "DANH MỤC BẢNG", size=13, bold=True,
+             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None)
     p2 = doc.add_paragraph()
     set_para_format(p2, first_line=None)
     add_field(p2, ' TOC \\h \\z \\c "Bảng" ',
               "Danh mục bảng tự động – cập nhật cùng lúc với mục lục.")
-    add_para(doc, "CHỮ VIẾT TẮT", size=14, bold=True,
-             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None, before=12, after=6)
+    add_para(doc, "CHỮ VIẾT TẮT", size=13, bold=True,
+             align=WD_ALIGN_PARAGRAPH.CENTER, first_line=None)
     for ab, full in [
         ("BGH", "Ban Giám hiệu"),
         ("BCH", "Ban Chấp hành"),
@@ -570,10 +578,10 @@ def main():
     npf.line_spacing = 1.2
 
     # heading styles -> đen, TNR
-    for lvl in range(1, 5):
+    for lvl in range(1, 6):
         st = doc.styles[f"Heading {lvl}"]
         st.font.name = FONT
-        st.font.size = Pt(13 if lvl > 1 else 14)
+        st.font.size = Pt(13)
         st.font.bold = True
         st.font.italic = False
         st.font.color.rgb = BLACK

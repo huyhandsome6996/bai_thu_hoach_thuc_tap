@@ -4,7 +4,7 @@
 
 ## Nhiệm vụ và điểm bắt đầu
 
-Viết bài **tìm hiểu thực tế giáo dục TTSP1 sau tuần thực tập đầu tiên**, dựa trên dữ liệu đã chuẩn hóa. Bộ phân hoạch và blueprint đã hoàn thành; bài cá nhân hóa chưa được viết.
+Viết hoặc sửa bài **tìm hiểu thực tế giáo dục TTSP1 sau tuần thực tập đầu tiên**, dựa trên dữ liệu đã chuẩn hóa. Đã có bài cá nhân hóa trong `05_final_report/`, được kiểm tra và sửa từ commit `36ea69e`; đọc `qa_report.md` và `qa_checks.json` trước khi thay đổi. Không tạo lại blueprint để ghi đè bài đã biên soạn.
 
 Thứ tự đọc:
 

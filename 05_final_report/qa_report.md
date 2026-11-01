@@ -1,55 +1,50 @@
-# QA report – bản nộp bài thu hoạch tìm hiểu thực tế giáo dục TTSP1
+# Kiểm tra và sửa bài thu hoạch TTSP1 của Hồ Quang Huy
 
-Ngày kiểm tra: 01/11/2026 (mốc quan sát tuần 1 được giữ theo `00_meta/report_context.json`, không dùng ngày máy của lần chạy sau). Người kiểm tra: coding agent dựng bài.
+## Kết luận và phạm vi
 
-## 1. Sản phẩm bàn giao
+Đã kiểm tra commit đầu vào `36ea69e1217ea207f5bedca3b0eac9ecf076dfe1` và sửa trực tiếp bản Word cùng các phần Markdown nguồn. Commit này đã có trên `origin/main`; cập nhật máy bằng fast-forward, không force-push hoặc xóa lịch sử.
 
-| Tệp | Nội dung |
+Bản đã sửa đáp ứng các yêu cầu nội dung và hình thức đã kiểm tra từ FORM, bìa, tài liệu Hình thức và hồ sơ người dùng: **35 trang vật lý A4 khi dàn trang bằng Microsoft Word**, tính cả bìa và trang nhận xét. Sản phẩm nộp là `BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx`. PDF cùng tên là bản đối chiếu bố cục xuất từ chính Word. Phần nhận xét, ngày ký, điểm và chữ ký dành cho nhà trường/người có thẩm quyền giữ trống theo mẫu; kết quả QA không thay đánh giá của GVHD.
+
+Phạm vi nội dung vẫn là tuần đầu **26/10–01/11/2026**, không phải tổng kết cả đợt. Mốc hạn 02/11, 17/11, 18/11, 21/11 được trình bày theo lịch kế hoạch, không ký lùi ngày. Hồ sơ có đủ thông tin cốt lõi đã được người dùng xác nhận, đúng lớp **Tin3A** và lớp thực tập **12/2**.
+
+## Các lỗi trong commit đầu vào và cách sửa
+
+| Vấn đề | Sửa trong bản hiện tại |
 | --- | --- |
-| `05_final_report/BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx` | Bản nộp Word (định dạng yêu cầu), 35 trang vật lý A4 |
-| `05_final_report/BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.pdf` | Bản render kiểm tra hình thức (LibreOffice 25.2, cùng nguồn XML) |
-| `05_final_report/sections/*.md` | 10 tệp phần viết riêng theo FORM, dùng để ghép bản Word |
-| `05_final_report/source_map.md` | Ánh xạ [S01]–[S09] tới tệp gốc và quy ước dẫn nguồn |
-| `04_scripts/build_docx_huy.py` | Script dựng .docx (python-docx, thể thức quy định) |
-| `04_scripts/update_toc_uno.py` | Cập nhật mục lục/danh mục bảng bằng LibreOffice UNO |
-| `04_scripts/qa_content_check.py` | Kiểm tra chuỗi cấm, dữ kiện bắt buộc, thông số lề |
+| Dùng kết quả lớp 12/2 năm 2025–2026 làm nền nhận xét lớp 12/2 hiện tại | Phân biệt rõ hai khóa học sinh; không gán sĩ số hoặc xếp loại năm trước cho lớp hiện tại |
+| Nhận định tỷ lệ Tốt cao nhất là lớp 12/5 | Tính lại: lớp 12/3 có 19/27 = 70,37%, cao nhất bảng; bổ sung tổng theo khối 2/17, 29/149, 73/136 |
+| Suy giảm 8 học sinh là chuyển trường/chuyển hướng; suy tương quan học tập–rèn luyện ở từng cá nhân | Bỏ các kết luận nhân quả/cá nhân chưa có dữ liệu; nêu giới hạn bảng tổng hợp |
+| Đồng nhất 7h–7h10 với hỗ trợ 15 phút đầu giờ | Ghi đúng 10 phút theo văn bản và tách hoạt động 15 phút theo lời người dùng |
+| Coi khung 10 tiết là số tiết mọi học sinh học mỗi ngày | Ghi đây là khung giờ; thời lượng từng lớp phải theo thời khóa biểu cụ thể |
+| Ghi sinh viên Tin học sẽ dự hai môn vì nhóm ghép Tin–Công nghệ | Sửa: dự chuyên môn môn Tin học theo phân công; không nhầm với cơ cấu 4+3 của ngành Công nghệ |
+| Tự suy việc quay video, phản hồi/buổi họp và lý do giao nhiệm vụ | Trả về “thực hiện video”, vai trò hỗ trợ và những sự kiện đã xác nhận; bỏ suy diễn quy trình chưa có ghi chép |
+| Dẫn tài liệu hình thức bằng [S07] và gán khung 5512 cho [S09] | Sửa về [S03]; bổ sung [S10] riêng cho khung KHBD, tách yêu cầu số/AI trong tài liệu địa phương |
+| Một số bảng/chú thích cỡ 12, tiêu đề danh mục cỡ 14 và giãn đoạn khác 0 | Nội dung sau bìa, kể cả bảng/chú thích/mục lục: TNR 13, đen, Multiple 1.2, Before/After 0 pt; bìa giữ thiết kế mẫu |
+| Bảng học tập/rèn luyện 10 cột quá dày | Tách hai bảng 5 và 6 cột, kiểm lại tổng 302 và các mức, không giảm font |
+| Bản ghi bảng bị ngắt qua trang; dòng mục lục dài sát số trang | Không tách từng hàng dữ liệu; lặp hàng tiêu đề; chừa chỗ cho số trang mục lục, nới cột ngày tháng |
+| Script kiểm tra dùng đường dẫn cố định /home/... và không trả exit code lỗi | Chuyển sang đường dẫn tương đối repo, trả mã thoát; thêm kiểm tra trên tài liệu thật |
 
-## 2. Số trang thực đo
+## Đối chiếu FORM
 
-- Render PDF bằng LibreOffice: **35 trang A4** (pdfinfo: 595.304 × 841.89 pts), đúng mục tiêu 35, trong khoảng cho phép 30–35.
-- Đếm gồm bìa (không đánh số) và trang nhận xét BGH; số trang hiển thị ở footer chính giữa từ trang 2 (lời cảm ơn) đến trang 35.
-- Đã xem ảnh toàn bộ 35 trang (gộp 2×2) sau từng vòng chỉnh sửa; các lỗi phát hiện đều đã sửa và render lại:
-  1. Thứ tự FORM sai (mục lục trước lời cảm ơn) → đã đưa về Bìa → Lời cảm ơn → Mục lục → A…V.
-  2. Bảng "Danh mục tài liệu" còn ký tự `|` do thiếu nhãn bảng → đã thêm nhãn, thành Bảng 12.
-  3. Cột GVCN Bảng 7 và cột Mã Bảng 12 quá hẹp (thiếu tblGrid) → đã khóa lưới cột, kiểm tra lại hiển thị.
-  4. Bìa xuống dòng ở cột giá trị → dùng nhãn ngắn theo mẫu gốc ("GVHD Chuyên môn"), khóa lưới cột.
-  5. Trang gần trống trước trang nhận xét → mở rộng phần dẫn nguồn trong B.IV.4 để trang 34 có nội dung thực.
-  6. Thiếu MSSV → bổ sung dòng "Mã số sinh viên (MSSV)" vào Bảng 1.
+Thứ tự trong Word: bìa nguồn → lời cảm ơn → mục lục/danh mục → A. Tóm lược về bản thân → B.I. Hoạt động đã thực hiện → B.II. Kết quả tìm hiểu (đủ 1–6, 2.1–2.8, 3.1–3.4, 5.1–5.2, 6.1–6.5) → B.III. Công tác TTSP1 (đủ ba mục) → IV. Tổng kết → V. Nhận xét của BGH. FORM nguồn in trùng hai mục IV; bản nộp sửa số mục cuối thành V, không thay tên hoặc vị trí nội dung. Không thêm C/D/E/F ngoài FORM.
 
-## 3. Thể thức
+Trong mục 6.5 giữ các nhóm biện pháp a, b, c, d, e, g, h, i theo FORM. Nội dung hồ sơ học sinh, nhiệm vụ giáo viên, hoạt động giáo dục và đánh giá/xếp loại được bố trí trong các mục B tương ứng để bao phủ tiêu chí Phụ lục 8. Không gọi các hồ sơ dự kiến tìm hiểu là hồ sơ đã trực tiếp khảo sát.
 
-| Yêu cầu | Thực hiện |
-| --- | --- |
-| A4; lề trái 3 cm; trên/dưới/phải 2 cm | Đặt ở section; qa kiểm tra PASS |
-| Times New Roman 13, màu đen | Style Normal + mọi run đặt rFonts ascii/hAnsi/eastAsia/cs = TNR, màu 000000; bảng dùng 13 (≤5 cột) hoặc 12 (≥6 cột) |
-| Giãn dòng Multiple 1.2; Before/After 0 pt | w:spacing line=288 lineRule=auto; before/after=0 cho văn bản |
-| Căn đều hai bên; thụt đầu dòng 1 cm | Justify; first line 1,0 cm (nằm trong 1–1,27 cm); danh sách thụt lề trái |
-| Số trang chính giữa footer | Trường PAGE căn giữa; bìa không đánh số (different first page) |
-| Mục lục tự động | TOC \o "1-3" \h \z \u và TOC \c "Bảng"; đã cập nhật bằng LibreOffice UNO (2 chỉ mục) và đặt updateFields để Word tự làm mới khi mở |
-| Bảng không tràn lề, lặp hàng tiêu đề | Tổng rộng bảng = 16 cm (chiều rộng khổ in), tblHeader cho hàng đầu, bảng dài được qua trang |
+## Kiểm tra có thể tái lập
 
-## 4. Kiểm tra nội dung tự động (qa_content_check.py)
+- `validate_repository.py`: **33 kiểm tra toàn vẹn đạt**, đối chiếu **56 SUM cache**, trích 8 ảnh; tệp Office gốc giữ nguyên SHA-256.
+- `qa_submission.py`: **35/35 kiểm tra tài liệu đạt**; kết quả chi tiết ở `qa_checks.json`. Kiểm tra thông tin cá nhân, giờ gặp GVHD, 0+0 tiết dự giờ, thứ tự FORM, font/cỡ/màu, giãn đoạn, khổ giấy/lề, tổng hai bảng kết quả, footer, phạm vi bảng và số trang PDF.
+- `qa_content_check.py`: kiểm tra bổ sung các cụm sai/thiếu và thể thức cơ bản; dùng đường dẫn repo hiện tại, trả exit code có ý nghĩa.
+- Microsoft Word: cập nhật trường SEQ, mục lục và danh mục bảng, dàn trang lại, cập nhật số trang rồi lưu DOCX và xuất PDF. Số trang trực tiếp của Word và số trang PDF cùng bằng **35**.
+- Render PDF thành ảnh bằng Poppler trong runtime; kiểm tra toàn bộ 35 trang: bìa, mục lục, bảng nối trang, chữ tiếng Việt, lề, số trang và trang ký. Không phát hiện chữ bị cắt, bảng vượt lề hoặc trang trắng bất thường. Ảnh QA nằm trong cache `04_scripts/qa_review/`, không đưa lên Git.
 
-- KẾT QUẢ: PASS. Không tìm thấy: `12A2`, "chủ nghiệm", "biễu", "SaPa", TODO, 【…】, XXX, ____, null, undefined, NaN, "sau bốn tuần", "kết thúc đợt thực tập", "đã dự đủ", "đã hoàn thành cả đợt".
-- Dữ kiện bắt buộc có mặt: Hồ Quang Huy; MSSV 24S1020030; 25/02/2006; Tin3A; Sư phạm Tin học; Trường Đại học Sư phạm, Đại học Huế; Sa Pa, Lào Cai; Trường THPT Thuận Hóa; lớp 12/2; thầy Mai Xuân Văn; cô Nguyễn Thị Thu Phương; 26/10/2026; gặp thầy 9 giờ 45 phút, gặp cô 10 giờ 30 phút; "0 tiết chuyên môn và 0 tiết chủ nhiệm".
-- Các mốc 17/11, 18/11, 21/11, 02/11 chỉ xuất hiện ở ngữ cảnh hạn nộp/kế hoạch/tổng kết của Ban chỉ đạo, không viết như việc đã xảy ra trong bài tuần 1.
-- `python 04_scripts/validate_repository.py`: PASS (33 kiểm tra toàn vẹn, 56 SUM cache, 8 ảnh nhúng) – kiểm tra dữ liệu repository, không thay QA nội dung.
+Renderer `render_docx.py` của kỹ năng đã được thử nhưng không chạy được do Windows không có LibreOffice/soffice.exe. Đã dùng **Microsoft Word COM chạy ẩn để xuất PDF**, sau đó raster bằng Poppler; không lấy bản PDF cũ của commit làm bằng chứng cho DOCX đã sửa. Các bước Word nằm trong `render_word_review.ps1`.
 
-## 5. Phạm vi và giới hạn còn lại
+## Lưu ý trước khi nộp
 
-- Bài phản ánh đúng tuần 1 (26/10–01/11/2026); các hoạt động video, tập văn nghệ, trò chơi ghi ở mức tuần theo xác nhận, không tự đặt ngày, tên trò chơi, số học sinh hay kết quả.
-- Chưa dự giờ chuyên môn/chủ nhiệm: ghi rõ 0+0; bảng tiến độ 7+3 chỉ ở dạng kế hoạch.
-- Chưa xác nhận tham dự báo cáo BGH/Đoàn trường: bài chỉ viết "theo kế hoạch được bố trí" và trình bày kết quả qua tài liệu.
-- Các thông tin chưa có nguồn (tỷ lệ tốt nghiệp thực tế 2026, đỗ đại học, kiểm định, thống kê toàn thành phố, lịch sử trường, số máy tính) không đưa vào bài.
-- Phần nhận xét, điểm, ngày ký, chữ ký của BGH/GVHD để trống có chủ đích (mẫu T0068); ngày ký thực tế do người có thẩm quyền điền khi nộp.
-- Số trang đã render kiểm tra bằng LibreOffice; khi mở trong Microsoft Word, mục lục/danh mục bảng sẽ tự cập nhật theo bộ máy dàn trang của Word (updateFields), do đó số trang của các mục trong mục lục có thể lệch ±1 trang nhưng tổng số trang vật lý vẫn giữ ở quanh 35 do định dạng cố định.
+- Bản Word và PDF là một cặp đã kiểm tra cùng phiên bản; không sửa DOCX rồi tiếp tục dùng PDF cũ.
+- Ảnh/font, driver hoặc phiên bản Word trên máy khác có thể làm đổi phân trang. Nếu chỉnh sửa, đổi máy hoặc cập nhật trường lại, kiểm tra Print Preview; không coi con số 35 là bất biến.
+- Chỉ có lời xác nhận về hoạt động hỗ trợ; không tự tạo ảnh/video đính kèm, tên trò chơi, ngày hoạt động hoặc kết quả chưa được cung cấp. Không tự nhận đã dự giờ.
+- Chưa có nguồn cho tỷ lệ đỗ đại học, tốt nghiệp thực tế 2026 hoặc giấy công nhận kiểm định; bài không đưa các kết quả đó vào như thành tích đã xác nhận.
+- Không có điểm/chữ ký/nhận xét giả. Người có thẩm quyền điền phần cuối khi thực hiện thủ tục nộp.

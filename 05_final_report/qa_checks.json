@@ -1,0 +1,223 @@
+{
+  "reviewed_commit": "36ea69e1217ea207f5bedca3b0eac9ecf076dfe1",
+  "word_pdf_pages": 35,
+  "artifact_sha256": {
+    "BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx": "1fdcd15034c1257ef5000033d2bb118b3bfdcff351fe76d385ebd792666e52c3",
+    "BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.pdf": "4b7669d7e6756c381d1a385d725f50004b7f4e34652bcb9eacf941343359bb58"
+  },
+  "checks": [
+    {
+      "check": "Confirmed personal data",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Actual meeting times and zero observations",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: 12A2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: chủ nghiệm",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: biễu",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: SaPa",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: TODO",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: [CHỜ",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: undefined",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: NaN",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: người dùng",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: quay video",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: hai môn mà sinh viên Sư phạm Tin học",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: đã hoàn thành cả đợt",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: sau bốn tuần",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No erroneous/internal phrase: đã dự đủ",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Different 12/2 cohorts distinguished",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "10-minute schedule vs15-minute activity",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Correct class maximum and computed khối totals",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Formatting source correctly S03",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "KHBD source S10 mapped",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Mandatory FORM headings in order",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "No extra main C/D/E/F sections",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Section1 A4 and margins3/2/2/2",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Visible body/table/TOC text TNR13 black",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Direct body spacing Multiple1.2 before/after0",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "Actual learning table12rows sum302/104/161/37",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Actual conduct table12rows sum302/263/31/5/3",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Tables within16cm repeating headers no split records",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Centered PAGE footer separate cover",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Word-rendered PDF30–35 pages",
+      "passed": true,
+      "detail": 35
+    },
+    {
+      "check": "All PDF pages A4",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No unresolved fields/Markdown in PDF",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "No near-empty body pages",
+      "passed": true,
+      "detail": [
+        78,
+        454,
+        440,
+        196,
+        385,
+        616,
+        605,
+        568,
+        613,
+        602,
+        359,
+        581,
+        454,
+        439,
+        502,
+        380,
+        628,
+        632,
+        334,
+        439,
+        665,
+        639,
+        634,
+        653,
+        426,
+        453,
+        605,
+        667,
+        645,
+        506,
+        514,
+        654,
+        562,
+        404,
+        58
+      ]
+    },
+    {
+      "check": "Final page reserved for BGH/signatures",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "passed": true,
+  "visual_review": "Required separately; this script does not establish visual quality or authenticate signatures."
+}

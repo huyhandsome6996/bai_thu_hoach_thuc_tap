@@ -19,7 +19,7 @@ Bên cạnh nghiên cứu tài liệu, em đã trực tiếp tham gia các hoạ
 - Sáng thứ Hai, ngày 26/10/2026, trong buổi đầu tiên đến Trường THPT Thuận Hóa thực tập, em đã dự lễ chào cờ đầu tuần cùng toàn thể thầy cô và học sinh nhà trường. Sau đó, em gặp thầy Mai Xuân Văn – giáo viên hướng dẫn chuyên môn – lúc 9 giờ 45 phút, và gặp cô Nguyễn Thị Thu Phương – giáo viên hướng dẫn chủ nhiệm lớp 12/2 – lúc 10 giờ 30 phút để nhận nhiệm vụ và trao đổi về các công việc trong tuần.
 - Em được phân công hỗ trợ quản lý học sinh và ổn định nề nếp lớp 12/2 trong 15 phút đầu giờ. Đây là công việc đòi hỏi sự có mặt đúng giờ, thái độ nghiêm túc và khả năng quan sát từng học sinh để duy trì trật tự trước khi tiết học bắt đầu.
 - Em thực hiện một video phục vụ tiết mục biểu diễn văn nghệ của học sinh; đồng thời có mặt để cổ vũ, hỗ trợ các em trong quá trình tập luyện văn nghệ. Việc tham gia này giúp em tiếp cận công tác hoạt động tập thể của lớp và nhà trường từ góc độ tổ chức – hỗ trợ.
-- Em hỗ trợ đoàn sinh viên thực tập chuẩn bị và tổ chức hai trò chơi dành cho học sinh trong thời gian Ban Giám khảo chấm các tiết mục biểu diễn văn nghệ, góp phần giữ không khí vui vẻ, sôi nổi và trật tự cho khán giả trong chương trình.
+- Em hỗ trợ đoàn sinh viên thực tập chuẩn bị và tổ chức hai trò chơi dành cho học sinh trong thời gian Ban Giám khảo chấm các tiết mục biểu diễn văn nghệ, nhằm hỗ trợ hoạt động tập thể trong thời gian chờ chấm các tiết mục.
 
 Tính đến hết ngày 01/11/2026, em chưa được dự giờ chuyên môn và chưa được dự giờ chủ nhiệm (số tiết dự giờ hiện tại là 0 tiết chuyên môn và 0 tiết chủ nhiệm). Hoạt động hỗ trợ 15 phút đầu giờ, làm video, cổ vũ tập luyện văn nghệ và tổ chức trò chơi là những hoạt động tham gia công tác giáo dục, không được quy đổi thành tiết dự giờ. Trong các tuần tiếp theo, em sẽ thực hiện nhiệm vụ dự giờ 7 tiết chuyên môn và 3 tiết chủ nhiệm theo sự phân công của giáo viên hướng dẫn.
 
@@ -35,6 +35,6 @@ TBL|Tóm tắt hoạt động đã thực hiện trong tuần đầu
 | 4 | Hỗ trợ quản lý học sinh, ổn định nề nếp lớp 12/2 trong 15 phút đầu giờ | Trong tuần, theo phân công | Hoạt động giáo dục, chưa tính là tiết dự giờ |
 | 5 | Thực hiện một video phục vụ tiết mục biểu diễn văn nghệ của học sinh | Trong tuần, theo phân công | Sản phẩm học liệu hỗ trợ hoạt động tập thể |
 | 6 | Cổ vũ, hỗ trợ học sinh trong quá trình tập luyện văn nghệ | Trong tuần, theo phân công | Hỗ trợ tổ chức hoạt động tập thể |
-| 7 | Hỗ trợ đoàn sinh viên chuẩn bị, tổ chức hai trò chơi khi Ban Giám khảo chấm tiết mục văn nghệ | Trong tuần, theo phân công | Không có tên trò chơi, số lượng cụ thể được cung cấp |
+| 7 | Hỗ trợ đoàn sinh viên chuẩn bị, tổ chức hai trò chơi khi Ban Giám khảo chấm tiết mục văn nghệ | Trong tuần, theo phân công | Hỗ trợ tổ chức 02 trò chơi; thời gian ghi ở mức tuần |
 
 Nguồn: hoạt động đã được sinh viên xác nhận; ngày 26/10/2026 có mốc giờ thực tế, các hoạt động còn lại ghi ở mức tuần theo nguồn đã chuẩn hóa.

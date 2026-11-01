@@ -1,6 +1,6 @@
 # Source map – ánh xạ mã nguồn trong bài thu hoạch
 
-Bài nộp: `BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx` (kèm bản PDF để đối chiếu hình thức). Mã [S01]–[S09] dùng trong bài ánh xạ tới 9 tệp gốc trong `01_raw_data/`; mã P (đoạn), T (bảng) hoặc ô là vị trí theo thứ tự trích xuất OOXML, không phải số trang văn bản gốc.
+Bài nộp: `BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx` (kèm bản PDF để đối chiếu hình thức). Mã [S01]–[S09] ánh xạ tới 9 tệp gốc trong `01_raw_data/`; [S10] là nguồn đối chiếu khung KHBD bên ngoài, có đường dẫn ở cuối tệp này. Mã P (đoạn), T (bảng) hoặc ô là vị trí theo thứ tự trích xuất OOXML, không phải số trang văn bản gốc.
 
 | Mã | Tệp gốc (01_raw_data/) | Bản trích xuất tham chiếu | Ghi chú phạm vi |
 | --- | --- | --- | --- |
@@ -21,3 +21,7 @@ Bài nộp: `BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx` (kèm bản PDF để đối
 - Số tổng tiết theo nhóm môn [S08] gồm cả công tác kiêm nhiệm; bài đã ghi chú phạm vi và các bất nhất chưa xác nhận (Vật lí 24/27, Địa lí 17/22) mà không tự sửa số liệu nguồn.
 - Hoạt động cá nhân (chào cờ, gặp GVHD 09:45/10:30, hỗ trợ 15 phút đầu giờ, một video, cổ vũ tập luyện, hai trò chơi) lấy từ `00_meta/confirmed_week1_activities.md` do sinh viên xác nhận; không suy ngày cụ thể cho hoạt động mức tuần.
 - Chưa có nguồn, không đưa vào bài: tỷ lệ tốt nghiệp thực tế 2026, tỷ lệ đỗ đại học, chứng nhận kiểm định mức 2/chuẩn quốc gia mức 1, số liệu giáo dục toàn thành phố, lịch sử trường, số máy tính phòng máy.
+
+## Nguồn bổ sung [S10]
+
+Phụ lục IV, Khung kế hoạch bài dạy kèm Công văn 5512/BGDĐT-GDTrH ngày 18/12/2020; [bản trên cổng UBND xã Ba Vì](https://bavi.quangngai.gov.vn/upload/2007096/20250911/20201218%20Phu%20luc%204%20Khung%20Ke%20hoach%20bai%20day%20%28giao%20an%29.pdf). Đã đối chiếu cấu trúc trong bước QA. Nguồn này chỉ dùng cho cấu trúc KHBD, không chứng minh yêu cầu AI có trong nguyên văn công văn năm 2020. [S03] mới là tài liệu hình thức yêu cầu bổ sung năng lực số/AI.

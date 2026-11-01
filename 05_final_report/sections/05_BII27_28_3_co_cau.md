@@ -10,7 +10,7 @@ Báo cáo tổng kết năm học 2025 – 2026 ghi nhận các thành tích ti�
 - Kỳ thi chọn học sinh giỏi cấp Thành phố năm học 2025 – 2026: 01 giải Khuyến khích môn Ngữ văn; 01 giải Ba môn Lịch sử; 02 giải Khuyến khích môn Lịch sử; 01 giải Nhì môn Tiếng Anh; 02 giải Nhì môn Giáo dục kinh tế – pháp luật (tổng 07 giải).
 - Cuộc thi Olympic Tiếng Anh trên Internet (IOE) năm học 2025 – 2026: 01 giải Ba khối 12 toàn quốc; 01 giải Ba khối 12 toàn thành phố; 01 giải Khuyến khích khối 12 toàn thành phố; 01 giải Nhất cấp trường.
 
-Qua danh mục trên, có thể thấy ba tầng thành tích được tách bạch rõ: thành tích nghiên cứu khoa học kỹ thuật và sáng tạo (cấp quốc gia và thành phố), thành tích học sinh giỏi các môn văn hóa (cấp thành phố) và thành tích sân chơi ngoại ngữ trực tuyến. Đáng ghi nhận nhất là giải Tư quốc gia của cuộc thi Khoa học – Kỹ thuật, một kết quả vượt trội so với quy mô 12 lớp/302 học sinh của trường; điều này cho thấy mô hình bồi dưỡng theo dự án, kết hợp nguồn lực của Trường Đại học Sư phạm, Đại học Huế (phòng thí nghiệm, giảng viên hướng dẫn) đã phát huy hiệu quả. Nhà trường cũng thẳng thắn nhận diện mặt hạn chế: "chất lượng mũi nhọn bồi dưỡng học sinh giỏi có nhiều chuyển biến, nhưng một số môn số lượng và chất lượng giải vẫn chưa cao" [S06, P0133]. Với sinh viên giáo viên tương lai, bài học ở đây là thành tích mũi nhọn không tự nhiên mà có; nó là kết quả của một chu trình dài phát hiện – tuyển chọn – bồi dưỡng có kế hoạch, mà người giáo viên mới là mắt xích tổ chức thực hiện.
+Qua danh mục trên, có thể thấy ba tầng thành tích được tách bạch rõ: thành tích nghiên cứu khoa học kỹ thuật và sáng tạo (cấp quốc gia và thành phố), thành tích học sinh giỏi các môn văn hóa (cấp thành phố) và thành tích sân chơi ngoại ngữ trực tuyến. Đáng ghi nhận nhất là giải Tư quốc gia của cuộc thi Khoa học – Kỹ thuật, một kết quả vượt trội so với quy mô 12 lớp/302 học sinh của trường; kết quả này gợi mở giá trị của bồi dưỡng nghiên cứu khoa học đối với học sinh. Tuy nhiên, báo cáo chưa mô tả quá trình của từng đề tài nên không quy thành tích này cho một phương pháp hoặc nguồn lực cụ thể. Nhà trường cũng thẳng thắn nhận diện mặt hạn chế: "chất lượng mũi nhọn bồi dưỡng học sinh giỏi có nhiều chuyển biến, nhưng một số môn số lượng và chất lượng giải vẫn chưa cao" [S06, P0133]. Với sinh viên giáo viên tương lai, bài học ở đây là thành tích mũi nhọn không tự nhiên mà có; nó là kết quả của một chu trình dài phát hiện – tuyển chọn – bồi dưỡng có kế hoạch, mà người giáo viên mới là mắt xích tổ chức thực hiện.
 
 ##### b. Kết quả về học tập và rèn luyện năm học 2025 – 2026
 
@@ -18,26 +18,47 @@ Cuối năm học 2025 – 2026, với mẫu số 302 học sinh, kết quả x�
 
 Kết quả cụ thể theo từng lớp được tổng hợp trong bảng sau:
 
-TBL|Kết quả học tập – rèn luyện theo lớp năm học 2025 – 2026
-| Lớp | Sĩ số | HT Tốt | HT Khá | HT Đạt | RL Tốt | RL Khá | RL Đạt | RL Chưa đạt | GVCN năm 2025 – 2026 |
-| 10/1 | 17 | 2 | 11 | 4 | 16 | 1 | 0 | 0 | Nguyễn Hữu Nhanh Tiến |
-| 11/1 | 22 | 1 | 11 | 10 | 15 | 7 | 0 | 0 | Lê Văn Hoàn |
-| 11/2 | 27 | 10 | 16 | 1 | 24 | 2 | 0 | 1 | Nguyễn Thị Thu Phương |
-| 11/3 | 25 | 0 | 15 | 10 | 15 | 7 | 2 | 1 | Hoàng Đức Vương |
-| 11/4 | 23 | 5 | 16 | 2 | 18 | 4 | 1 | 0 | Lê Thị Hương |
-| 11/5 | 25 | 7 | 17 | 1 | 24 | 1 | 0 | 0 | Trương Thị Bình |
-| 11/6 | 27 | 6 | 13 | 8 | 23 | 4 | 0 | 0 | Lê Nguyễn Tú Trinh |
-| 12/1 | 27 | 12 | 15 | 0 | 24 | 1 | 2 | 0 | Trần Ngọc Đức Toàn |
-| 12/2 | 26 | 9 | 17 | 0 | 23 | 3 | 0 | 0 | Bùi Thị Như Nga |
-| 12/3 | 27 | 19 | 8 | 0 | 26 | 1 | 0 | 0 | Đàm Thị Mai |
-| 12/4 | 26 | 14 | 11 | 1 | 25 | 0 | 0 | 1 | Lê Dương Tú Anh |
-| 12/5 | 30 | 19 | 11 | 0 | 30 | 0 | 0 | 0 | Lê Thị Tố Uyên |
+TBL|Kết quả học tập theo lớp năm học 2025 – 2026
+| Lớp | Sĩ số | Tốt | Khá | Đạt |
+| 10/1 | 17 | 2 | 11 | 4 |
+| 11/1 | 22 | 1 | 11 | 10 |
+| 11/2 | 27 | 10 | 16 | 1 |
+| 11/3 | 25 | 0 | 15 | 10 |
+| 11/4 | 23 | 5 | 16 | 2 |
+| 11/5 | 25 | 7 | 17 | 1 |
+| 11/6 | 27 | 6 | 13 | 8 |
+| 12/1 | 27 | 12 | 15 | 0 |
+| 12/2 | 26 | 9 | 17 | 0 |
+| 12/3 | 27 | 19 | 8 | 0 |
+| 12/4 | 26 | 14 | 11 | 1 |
+| 12/5 | 30 | 19 | 11 | 0 |
+
+Nguồn: [S06, bảng T0093]; các ô số lượng trống được quy đổi 0 để đối chiếu tổng. Không có học sinh học tập mức Chưa đạt.
+
+TBL|Kết quả rèn luyện theo lớp năm học 2025 – 2026
+| Lớp | Sĩ số | Tốt | Khá | Đạt | Chưa đạt |
+| 10/1 | 17 | 16 | 1 | 0 | 0 |
+| 11/1 | 22 | 15 | 7 | 0 | 0 |
+| 11/2 | 27 | 24 | 2 | 0 | 1 |
+| 11/3 | 25 | 15 | 7 | 2 | 1 |
+| 11/4 | 23 | 18 | 4 | 1 | 0 |
+| 11/5 | 25 | 24 | 1 | 0 | 0 |
+| 11/6 | 27 | 23 | 4 | 0 | 0 |
+| 12/1 | 27 | 24 | 1 | 2 | 0 |
+| 12/2 | 26 | 23 | 3 | 0 | 0 |
+| 12/3 | 27 | 26 | 1 | 0 | 0 |
+| 12/4 | 26 | 25 | 0 | 0 | 1 |
+| 12/5 | 30 | 30 | 0 | 0 | 0 |
 
 Nguồn: [S06, bảng T0093]. HT = học tập; RL = rèn luyện; ô trống trong bảng gốc quy đổi bằng 0 để đối chiếu tổng. Tổng từng cột khớp mẫu số 302 học sinh.
 
 Ngoài ra, theo báo cáo, năm học 2025 – 2026 nhà trường có 10 học sinh xuất sắc (khối 12: 8; khối 11: 2) và 92 học sinh giỏi (khối 12: 64; khối 11: 26; khối 10: 2) [S06, P0094]. Cần lưu ý rằng học sinh xuất sắc, học sinh giỏi là danh hiệu khen thưởng, không đồng nhất với mức xếp loại học tập Tốt; hai nhóm này không gộp chung khi phân tích.
 
-Từ bảng số liệu, em có ba nhận xét. Thứ nhất, phân bố mức Tốt về học tập không đều giữa các lớp: từ mức thấp 1/22 học sinh (lớp 11/1) đến mức cao 19/30 (lớp 12/5), chênh lệch lớn này cho thấy chất lượng đầu vào giữa các khối và các lớp có sự khác biệt rõ rệt; khối 10 chỉ còn 17 học sinh cuối năm với 2 học sinh Tốt, phù hợp với nhận định của nhà trường rằng "chất lượng tuyển sinh đầu vào chưa cao, nhiều học sinh khối 10 chưa quen và thích nghi với phương pháp học tập ở bậc trung học phổ thông nên kết quả học tập còn thấp" [S06, P0137]. Thứ hai, kết quả rèn luyện đồng đều hơn hẳn kết quả học tập: 87,09% Tốt và hầu hết các lớp không có học sinh rèn luyện Chưa đạt; 03 trường hợp Chưa đạt (11/2, 11/3, 12/4) cũng chính là những lớp còn học sinh mức học tập Đạt nhiều, gợi ý về mối liên hệ giữa động cơ học tập và tu dưỡng. Thứ ba, liên hệ trực tiếp với lớp thực tập của em: năm học 2025 – 2026 lớp 12/2 (do cô Bùi Thị Như Nga chủ nhiệm) có 26 học sinh, học tập Tốt 9, Khá 17 và rèn luyện Tốt 23, Khá 3; năm học 2026 – 2027 lớp 12/2 chuyển sang do cô Nguyễn Thị Thu Phương – giáo viên hướng dẫn chủ nhiệm của em – đảm nhiệm [S08, dòng 41–42]. Việc nắm được "nền" xếp loại của lớp ngay từ đầu năm giúp em, khi được giao tìm hiểu tình hình lớp, biết đặt câu hỏi đúng trọng tâm: học sinh có động cơ học tập khá (không ai học tập Chưa đạt), việc rèn nề nếp đầu giờ của em vì thế tập trung vào kỷ luật hành động hơn là động lực học tập.
+Từ bảng số liệu, mức Tốt về học tập có sự khác nhau giữa các lớp: lớp 11/1 có 1/22 học sinh (4,55%), trong khi lớp 12/3 có 19/27 học sinh (70,37%), là tỷ lệ cao nhất trong bảng. Tổng hợp theo khối từ T0093 cho thấy khối 10 có 2/17 học sinh mức Tốt, khối 11 có 29/149 và khối 12 có 73/136. Đây là kết quả của những nhóm học sinh khác nhau, không phải dữ liệu theo dõi tiến bộ của cùng một nhóm. Báo cáo cũng nêu hạn chế về chất lượng đầu vào và việc thích nghi với cách học ở bậc THPT [S06, P0137]; không thể chỉ từ tỷ lệ cuối năm xác định nguyên nhân ở từng lớp.
+
+Về rèn luyện, 263/302 học sinh đạt mức Tốt và 3 học sinh ở mức Chưa đạt. Bảng tổng hợp không cho biết những cá nhân này đồng thời ở mức học tập nào, vì vậy chưa đủ căn cứ kết luận quan hệ giữa kết quả học tập và rèn luyện của từng em. Giáo viên cần xem xét hồ sơ cá nhân, quá trình tiến bộ và điều kiện học tập trước khi đề xuất hỗ trợ.
+
+Riêng tên lớp 12/2 cần được phân biệt theo niên độ: lớp 12/2 năm 2025 – 2026 có 26 học sinh, do cô Bùi Thị Như Nga chủ nhiệm; đây không phải cùng tập thể với lớp 12/2 năm 2026 – 2027 mà em đang thực tập. Vì vậy, không dùng sĩ số, mức học tập hoặc rèn luyện của lớp 12/2 năm trước làm đặc điểm lớp hiện tại. Cô Nguyễn Thị Thu Phương được phân công chủ nhiệm lớp 12/2 năm học mới [S08, E42]; em cần tìm hiểu dữ liệu lớp hiện tại theo sự hướng dẫn của cô trong các tuần tiếp theo.
 
 #### 2.8. Thuận lợi, khó khăn
 

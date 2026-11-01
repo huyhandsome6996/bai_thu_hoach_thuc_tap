@@ -3,7 +3,8 @@
 from docx import Document
 from docx.shared import Cm
 
-PATH = "/home/z/my-project/repo_btt/05_final_report/BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx"
+from pathlib import Path
+PATH = Path(__file__).resolve().parents[1] / "05_final_report/BAI_THU_HOACH_TTSP1_HO_QUANG_HUY.docx"
 doc = Document(PATH)
 
 texts = [p.text for p in doc.paragraphs]
@@ -82,3 +83,4 @@ print("[INFO] Số bảng:", len(doc.tables))
 print("[INFO] Số đoạn:", len(doc.paragraphs))
 print("[INFO] Số ký tự toàn văn:", len(full))
 print("KẾT QUẢ:", "PASS" if ok else "CÓ LỖI")
+raise SystemExit(0 if ok else 1)
